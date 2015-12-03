@@ -1,0 +1,664 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000180009500-100000180009500> a fb:Friendship ;
+    rdfs:label "Friendship 100000180009500-100000180009500" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000180009500-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000180009500-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000180009500-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100000180009500-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000286775108-100000462307888> a fb:Friendship ;
+    rdfs:label "Friendship 100000286775108-100000462307888" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000286775108>,
+        <http://purl.org/socialparticipation/fb/Participant#100000462307888> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000286775108-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000286775108-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000286775108>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000286775108-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100000286775108-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000286775108>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000292976410-100000436815613> a fb:Friendship ;
+    rdfs:label "Friendship 100000292976410-100000436815613" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000292976410>,
+        <http://purl.org/socialparticipation/fb/Participant#100000436815613> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000426184873-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000426184873-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000426184873>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000436815613-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000436815613-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000436815613>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000462307888-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100000462307888-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000462307888>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000534564183-100000564227722> a fb:Friendship ;
+    rdfs:label "Friendship 100000534564183-100000564227722" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000534564183>,
+        <http://purl.org/socialparticipation/fb/Participant#100000564227722> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000534564183-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000534564183-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000534564183>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000564227722-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000564227722-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000564227722>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000564227722-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100000564227722-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000564227722>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000628396196-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000628396196-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000628396196>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000628396196-808049589> a fb:Friendship ;
+    rdfs:label "Friendship 100000628396196-808049589" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000628396196>,
+        <http://purl.org/socialparticipation/fb/Participant#808049589> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000704073133-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100000704073133-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000704073133>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000783442302-100000783442302> a fb:Friendship ;
+    rdfs:label "Friendship 100000783442302-100000783442302" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000783442302> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000793329447-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000793329447-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000793329447>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100000995972159-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100000995972159-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000995972159>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100001373417158-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100001373417158-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100001373417158>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100001400301749-100000783442302> a fb:Friendship ;
+    rdfs:label "Friendship 100001400301749-100000783442302" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000783442302>,
+        <http://purl.org/socialparticipation/fb/Participant#100001400301749> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100001400301749-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100001400301749-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100001400301749>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100001400301749-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 100001400301749-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100001400301749>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100001499932680-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100001499932680-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100001499932680>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100001623702615-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100001623702615-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100001623702615>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100002003366074-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100002003366074-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100002003366074>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100002990421594-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100002990421594-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100002990421594>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100003788530509-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100003788530509-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100003788530509>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100005200325646-100000180009500> a fb:Friendship ;
+    rdfs:label "Friendship 100005200325646-100000180009500" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#100005200325646> .
+
+<http://purl.org/socialparticipation/fb/Friendship#100005200325646-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 100005200325646-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100005200325646>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1024672280-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 1024672280-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1024672280>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1212962651-100000564227722> a fb:Friendship ;
+    rdfs:label "Friendship 1212962651-100000564227722" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000564227722>,
+        <http://purl.org/socialparticipation/fb/Participant#1212962651> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1245616935-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 1245616935-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1245616935>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-100000180009500> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-100000180009500" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-100000436815613> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-100000436815613" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000436815613>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-100003058050549> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-100003058050549" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100003058050549>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-100003910827604> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-100003910827604" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100003910827604>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-1613153934> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-1613153934" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1613153934> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-808049589> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-808049589" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#808049589> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1350152700-836944624> a fb:Friendship ;
+    rdfs:label "Friendship 1350152700-836944624" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1587734257-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 1587734257-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1587734257> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1594848983-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 1594848983-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1594848983> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1644394904-836944624> a fb:Friendship ;
+    rdfs:label "Friendship 1644394904-836944624" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1644394904>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-100000180009500> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-100000180009500" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-100000436815613> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-100000436815613" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000436815613>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-100000462307888> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-100000462307888" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000462307888>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-100000783442302> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-100000783442302" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000783442302>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1667243808> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1667243808-836944624> a fb:Friendship ;
+    rdfs:label "Friendship 1667243808-836944624" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1667243808>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> .
+
+<http://purl.org/socialparticipation/fb/Friendship#1685454581-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 1685454581-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1685454581> .
+
+<http://purl.org/socialparticipation/fb/Friendship#531027161-100000180009500> a fb:Friendship ;
+    rdfs:label "Friendship 531027161-100000180009500" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#531027161> .
+
+<http://purl.org/socialparticipation/fb/Friendship#531027161-100000462307888> a fb:Friendship ;
+    rdfs:label "Friendship 531027161-100000462307888" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000462307888>,
+        <http://purl.org/socialparticipation/fb/Participant#531027161> .
+
+<http://purl.org/socialparticipation/fb/Friendship#531027161-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 531027161-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#531027161> .
+
+<http://purl.org/socialparticipation/fb/Friendship#531027161-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 531027161-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1667243808>,
+        <http://purl.org/socialparticipation/fb/Participant#531027161> .
+
+<http://purl.org/socialparticipation/fb/Friendship#531027161-836944624> a fb:Friendship ;
+    rdfs:label "Friendship 531027161-836944624" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#531027161>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> .
+
+<http://purl.org/socialparticipation/fb/Friendship#547840162-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 547840162-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#547840162> .
+
+<http://purl.org/socialparticipation/fb/Friendship#558919375-836944624> a fb:Friendship ;
+    rdfs:label "Friendship 558919375-836944624" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#558919375>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> .
+
+<http://purl.org/socialparticipation/fb/Friendship#757511278-100000180009500> a fb:Friendship ;
+    rdfs:label "Friendship 757511278-100000180009500" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#757511278> .
+
+<http://purl.org/socialparticipation/fb/Friendship#757511278-100000783442302> a fb:Friendship ;
+    rdfs:label "Friendship 757511278-100000783442302" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#100000783442302>,
+        <http://purl.org/socialparticipation/fb/Participant#757511278> .
+
+<http://purl.org/socialparticipation/fb/Friendship#757511278-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 757511278-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#757511278> .
+
+<http://purl.org/socialparticipation/fb/Friendship#757511278-1667243808> a fb:Friendship ;
+    rdfs:label "Friendship 757511278-1667243808" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1667243808>,
+        <http://purl.org/socialparticipation/fb/Participant#757511278> .
+
+<http://purl.org/socialparticipation/fb/Friendship#836944624-1350152700> a fb:Friendship ;
+    rdfs:label "Friendship 836944624-1350152700" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> .
+
+<http://purl.org/socialparticipation/fb/Participant#100004469951130> a fb:Participant ;
+    rdfs:label "Monika Klein" ;
+    fb:name "Monika Klein"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "100004469951130"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#2911539> a fb:Participant ;
+    rdfs:label "Yvonne Welbon" ;
+    fb:name "Yvonne Welbon"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "2911539"^^xsd:string .
+
+fb:friend a owl:SymmetricProperty .
+
+<http://purl.org/socialparticipation/po/Snapshot#ComputerArt_interactions> a po:Snapshot ;
+    rdfs:label "Snapshot ComputerArt_interactions" ;
+    fb:link "https://www.facebook.com/groups/computerart/permalink/259389137529870/"^^xsd:string ;
+    fb:sid "computerart"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/ComputerArt_interactions"^^xsd:string ;
+    po:createdAt "2013-03-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsMeta.ttl"^^xsd:string ;
+    po:donatedBy "ComputerArt_interactions"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/base/['..', 'data', 'fb', 'gdf', 'ComputerArt_interactions.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:48:30.899034"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Computer Art_interactions"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000292976410> a fb:Participant ;
+    rdfs:label "Marco Ferrazza" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000436815613> ;
+    fb:name "Marco Ferrazza"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000292976410"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000426184873> a fb:Participant ;
+    rdfs:label "Ellectra Radikal" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Ellectra Radikal"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000426184873"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000704073133> a fb:Participant ;
+    rdfs:label "Silke Zil Kuhar" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Silke Zil Kuhar"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000704073133"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000793329447> a fb:Participant ;
+    rdfs:label "Craig Stone" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Craig Stone"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000793329447"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000995972159> a fb:Participant ;
+    rdfs:label "Miroslava Hájek" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Miroslava Hájek"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000995972159"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001373417158> a fb:Participant ;
+    rdfs:label "Martin Scholte" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Martin Scholte"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100001373417158"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001499932680> a fb:Participant ;
+    rdfs:label "Sandro Sale" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Sandro Sale"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100001499932680"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001623702615> a fb:Participant ;
+    rdfs:label "Fatemeh Mofarahi" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Fatemeh Mofarahi"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100001623702615"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002003366074> a fb:Participant ;
+    rdfs:label "Toshi Tanner" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Toshi Tanner"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100002003366074"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002990421594> a fb:Participant ;
+    rdfs:label "Emes Furukawar" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Emes Furukawar"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100002990421594"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003788530509> a fb:Participant ;
+    rdfs:label "Ronen Shai" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Ronen Shai"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100003788530509"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1024672280> a fb:Participant ;
+    rdfs:label "Dorothea Bringmann" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Dorothea Bringmann"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1024672280"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1212962651> a fb:Participant ;
+    rdfs:label "Carolina Del Sur" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000564227722> ;
+    fb:name "Carolina Del Sur"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1212962651"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1245616935> a fb:Participant ;
+    rdfs:label "Isabel Ceg" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Isabel Ceg"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1245616935"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1587734257> a fb:Participant ;
+    rdfs:label "Michael Perlbach" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Michael Perlbach"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1587734257"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1594848983> a fb:Participant ;
+    rdfs:label "Mary Meixner" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Mary Meixner"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1594848983"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1644394904> a fb:Participant ;
+    rdfs:label "Miron Ǝǝʇ" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#836944624> ;
+    fb:name "Miron Ǝǝʇ"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1644394904"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1685454581> a fb:Participant ;
+    rdfs:label "Omar Ernesto Guzmán Fraire" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Omar Ernesto Guzmán Fraire"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "1685454581"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#547840162> a fb:Participant ;
+    rdfs:label "Ricardo Molina-Cotero" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Ricardo Molina-Cotero"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "547840162"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#558919375> a fb:Participant ;
+    rdfs:label "Pablo Degraf" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#836944624> ;
+    fb:name "Pablo Degraf"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "558919375"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000534564183> a fb:Participant ;
+    rdfs:label "Roger GrandLapin" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000564227722>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Roger GrandLapin"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000534564183"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000628396196> a fb:Participant ;
+    rdfs:label "Bröther Owusu-Ankomah" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#808049589> ;
+    fb:name "Bröther Owusu-Ankomah"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000628396196"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003058050549> a fb:Participant ;
+    rdfs:label "Atelier Zaandam" ;
+    fb:name "Atelier Zaandam"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "100003058050549"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003910827604> a fb:Participant ;
+    rdfs:label "Contest Yicca" ;
+    fb:name "Contest Yicca"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "100003910827604"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100005200325646> a fb:Participant ;
+    rdfs:label "Lemaire Monique" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Lemaire Monique"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100005200325646"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1613153934> a fb:Participant ;
+    rdfs:label "Giustino Di Gregorio" ;
+    fb:name "Giustino Di Gregorio"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "1613153934"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000286775108> a fb:Participant ;
+    rdfs:label "Bruno Kowalski" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000462307888>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Bruno Kowalski"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "100000286775108"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001400301749> a fb:Participant ;
+    rdfs:label "Iván Macuil Priego" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000783442302>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Iván Macuil Priego"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "100001400301749"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#757511278> a fb:Participant ;
+    rdfs:label "Søren Raagaard" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#100000783442302>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Søren Raagaard"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "757511278"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#808049589> a fb:Participant ;
+    rdfs:label "Boaz Vaadia" ;
+    fb:name "Boaz Vaadia"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "808049589"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#531027161> a fb:Participant ;
+    rdfs:label "Dafna Ganani" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#100000462307888>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> ;
+    fb:name "Dafna Ganani"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "531027161"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000564227722> a fb:Participant ;
+    rdfs:label "Dominik Podsiadly" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Dominik Podsiadly"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "100000564227722"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000436815613> a fb:Participant ;
+    rdfs:label "José Irion Neto" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "José Irion Neto"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "100000436815613"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000462307888> a fb:Participant ;
+    rdfs:label "Rosso Bernard" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Rosso Bernard"^^xsd:string ;
+    fb:posts "3"^^xsd:string ;
+    fb:uid "100000462307888"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000783442302> a fb:Participant ;
+    rdfs:label "Nuria Juncosa" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000783442302> ;
+    fb:name "Nuria Juncosa"^^xsd:string ;
+    fb:posts "3"^^xsd:string ;
+    fb:uid "100000783442302"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#836944624> a fb:Participant ;
+    rdfs:label "Attraktor Zeros" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#1350152700> ;
+    fb:name "Attraktor Zeros"^^xsd:string ;
+    fb:posts "19"^^xsd:string ;
+    fb:uid "836944624"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000180009500> a fb:Participant ;
+    rdfs:label "Gerd Jansen" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808> ;
+    fb:name "Gerd Jansen"^^xsd:string ;
+    fb:posts "2"^^xsd:string ;
+    fb:uid "100000180009500"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1667243808> a fb:Participant ;
+    rdfs:label "Nicolas Koroloff" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#100000436815613>,
+        <http://purl.org/socialparticipation/fb/Participant#100000462307888>,
+        <http://purl.org/socialparticipation/fb/Participant#100000783442302>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> ;
+    fb:name "Nicolas Koroloff"^^xsd:string ;
+    fb:posts "9"^^xsd:string ;
+    fb:uid "1667243808"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1350152700> a fb:Participant ;
+    rdfs:label "Rozita Fogelman" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#100000180009500>,
+        <http://purl.org/socialparticipation/fb/Participant#100000436815613>,
+        <http://purl.org/socialparticipation/fb/Participant#100003058050549>,
+        <http://purl.org/socialparticipation/fb/Participant#100003910827604>,
+        <http://purl.org/socialparticipation/fb/Participant#1350152700>,
+        <http://purl.org/socialparticipation/fb/Participant#1613153934>,
+        <http://purl.org/socialparticipation/fb/Participant#1667243808>,
+        <http://purl.org/socialparticipation/fb/Participant#808049589>,
+        <http://purl.org/socialparticipation/fb/Participant#836944624> ;
+    fb:name "Rozita Fogelman"^^xsd:string ;
+    fb:posts "129"^^xsd:string ;
+    fb:uid "1350152700"^^xsd:string .
+

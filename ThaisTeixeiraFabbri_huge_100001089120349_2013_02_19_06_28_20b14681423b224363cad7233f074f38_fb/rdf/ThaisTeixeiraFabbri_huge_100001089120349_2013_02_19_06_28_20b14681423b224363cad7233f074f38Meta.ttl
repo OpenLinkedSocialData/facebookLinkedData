@@ -1,0 +1,24 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38> a po:Snapshot ;
+    rdfs:label "Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" ;
+    fb:sid "thais.t.fabbri"^^xsd:string ;
+    fb:uid "100001089120349"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38"^^xsd:string ;
+    po:createdAt "2013-02-19"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Meta.ttl"^^xsd:string ;
+    po:donatedBy "ThaisTeixeiraFabbri"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/base/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38.gml"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T03:21:43.367525"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Translate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Thais Teixeira Fabbri"^^xsd:string .
+

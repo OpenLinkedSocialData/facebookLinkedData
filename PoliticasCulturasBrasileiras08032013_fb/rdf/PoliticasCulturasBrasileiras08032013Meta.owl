@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#PoliticasCulturasBrasileiras08032013">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-08</po:createdAt>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013/master/rdf/PoliticasCulturasBrasileiras08032013Meta.ttl</po:discoveryTTLFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013/master/rdf/PoliticasCulturasBrasileiras08032013Translate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/PoliticasCulturasBrasileiras08032013</po:availableAt>
+    <rdfs:label>Snapshot PoliticasCulturasBrasileiras08032013</rdfs:label>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:55:53.876228</po:triplifiedIn>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/pcult/permalink/519626544747423/</ns1:link>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PoliticasCulturasBrasileiras</po:donatedBy>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Politicas Culturas Brasileiras</rdfs:comment>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pcult</ns1:sid>
+    <po:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">273920112651402</po:uid>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013/master/rdf/PoliticasCulturasBrasileiras08032013Meta.owl</po:discorveryRDFFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013/master/rdf/PoliticasCulturasBrasileiras08032013Translate.ttl</po:ttlFile>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013/master/base/['..', 'data', 'fb', 'gdf', 'PoliticasCulturasBrasileiras08032013.gdf']</po:originalFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+  </rdf:Description>
+</rdf:RDF>

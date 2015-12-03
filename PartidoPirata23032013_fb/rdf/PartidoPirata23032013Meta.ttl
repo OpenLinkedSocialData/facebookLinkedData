@@ -1,0 +1,25 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#PartidoPirata23032013> a po:Snapshot ;
+    rdfs:label "Snapshot PartidoPirata23032013" ;
+    ns1:link "https://www.facebook.com/groups/partidopiratabrasil/permalink/10151409024509317/"^^xsd:string ;
+    ns1:sid "partidopiratabrasil"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/PartidoPirata23032013"^^xsd:string ;
+    po:createdAt "2013-03-23"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/PartidoPirata23032013/master/rdf/PartidoPirata23032013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/PartidoPirata23032013/master/rdf/PartidoPirata23032013Meta.ttl"^^xsd:string ;
+    po:donatedBy "PartidoPirata"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/PartidoPirata23032013/master/base/['..', 'data', 'fb', 'gdf', 'PartidoPirata23032013.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/PartidoPirata23032013/master/rdf/PartidoPirata23032013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:51:37.138702"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/PartidoPirata23032013/master/rdf/PartidoPirata23032013Translate.ttl"^^xsd:string ;
+    po:uid "97730949316"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Partido Pirata"^^xsd:string .
+

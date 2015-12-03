@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-04-10</po:createdAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MariliaMelloPisani</po:donatedBy>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T12:12:58.568134</po:triplifiedIn>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Marilia Mello Pisani</rdfs:comment>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2/master/base/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2.gml</po:originalFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2/master/rdf/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2Meta.owl</po:discorveryRDFFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2/master/rdf/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2Translate.owl</po:rdfFile>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marilia.pisani</fb:sid>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000812625301</fb:uid>
+    <rdfs:label>Snapshot MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2</rdfs:label>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2</po:availableAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2/master/rdf/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2Translate.ttl</po:ttlFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2/master/rdf/MariliaMelloPisani_huge_100000812625301_2013_04_10_02_55_f5180b675e47066391deda07c3970ec2Meta.ttl</po:discoveryTTLFile>
+  </rdf:Description>
+</rdf:RDF>

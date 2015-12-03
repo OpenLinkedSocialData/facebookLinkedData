@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#DemocraciaPura_interactions">
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">democraciapura</ns1:sid>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-15</po:createdAt>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Democracia Pura_interactions</rdfs:comment>
+    <rdfs:label>Snapshot DemocraciaPura_interactions</rdfs:label>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DemocraciaPura_interactions</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/DemocraciaPura_interactions</po:availableAt>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/democraciapura/permalink/310907215704321/</ns1:link>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsTranslate.owl</po:rdfFile>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/base/['..', 'data', 'fb', 'gdf', 'DemocraciaPura_interactions.gdf']</po:originalFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:46:08.240931</po:triplifiedIn>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsMeta.ttl</po:discoveryTTLFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsTranslate.ttl</po:ttlFile>
+  </rdf:Description>
+</rdf:RDF>

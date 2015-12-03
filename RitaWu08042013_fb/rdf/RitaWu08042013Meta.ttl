@@ -1,0 +1,24 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#RitaWu08042013> a po:Snapshot ;
+    rdfs:label "Snapshot RitaWu08042013" ;
+    fb:sid "0"^^xsd:string ;
+    fb:uid "100009639240215"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/RitaWu08042013"^^xsd:string ;
+    po:createdAt "2013-04-08"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Meta.ttl"^^xsd:string ;
+    po:donatedBy "RitaWu"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/RitaWu08042013/master/base/RitaWu08042013.gml"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T03:22:15.727058"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Translate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Rita Wu"^^xsd:string .
+

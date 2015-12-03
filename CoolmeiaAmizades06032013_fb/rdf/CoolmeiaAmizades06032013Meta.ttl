@@ -1,0 +1,25 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#CoolmeiaAmizades06032013> a po:Snapshot ;
+    rdfs:label "Snapshot CoolmeiaAmizades06032013" ;
+    ns1:link "https://www.facebook.com/groups/coolmeia/permalink/489757754464962/"^^xsd:string ;
+    ns1:sid "coolmeia"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/CoolmeiaAmizades06032013"^^xsd:string ;
+    po:createdAt "2013-03-06"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Meta.ttl"^^xsd:string ;
+    po:donatedBy "CoolmeiaAmizades"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/base/['..', 'data', 'fb', 'gdf', 'CoolmeiaAmizades06032013.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:48:31.257993"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Translate.ttl"^^xsd:string ;
+    po:uid "141692169271524"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Coolmeia Amizades"^^xsd:string .
+

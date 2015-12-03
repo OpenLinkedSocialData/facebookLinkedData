@@ -1,0 +1,24 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#DemocraciaPura_interactions> a po:Snapshot ;
+    rdfs:label "Snapshot DemocraciaPura_interactions" ;
+    ns1:link "https://www.facebook.com/groups/democraciapura/permalink/310907215704321/"^^xsd:string ;
+    ns1:sid "democraciapura"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/DemocraciaPura_interactions"^^xsd:string ;
+    po:createdAt "2013-03-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsMeta.ttl"^^xsd:string ;
+    po:donatedBy "DemocraciaPura_interactions"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/base/['..', 'data', 'fb', 'gdf', 'DemocraciaPura_interactions.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:46:08.240931"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/DemocraciaPura_interactions/master/rdf/DemocraciaPura_interactionsTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Democracia Pura_interactions"^^xsd:string .
+

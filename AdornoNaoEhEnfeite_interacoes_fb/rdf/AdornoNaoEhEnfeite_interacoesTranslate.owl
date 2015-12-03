@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-111885f09fe6c434e52f569ea0414d3b46b4dd87">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-111885f09fe6c434e52f569ea0414d3b46b4dd87</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_3</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">822cf63cc461a6fb87eb704215f0abea916c7305</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_3</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#266a6b8251d7154dedeab7c2b051b5a3069752cb">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_53</fb:name>
+    <rdfs:label>user_53</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">266a6b8251d7154dedeab7c2b051b5a3069752cb</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-b620117ef8b98d86eb421d548201b0ceb3088d26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <rdfs:label>Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-b620117ef8b98d86eb421d548201b0ceb3088d26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d73162495ce33b30c42854dee2c52f9b09de7243-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <rdfs:label>Friendship d73162495ce33b30c42854dee2c52f9b09de7243-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d73162495ce33b30c42854dee2c52f9b09de7243"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_1</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">e1ab4ee2d1da43388d7b6b7649416915520ccc58</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</fb:posts>
+    <rdfs:label>user_1</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#293624d809532c07173c0e32cdb85090b73dac5e">
+    <rdfs:label>user_9</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">293624d809532c07173c0e32cdb85090b73dac5e</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_9</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdfs:label>user_24</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">b4e75f8f131689b08999fc952f572822849d3dcb</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_24</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-441abcfb4ea5bb72c9e4dda9b57073dca75ee668">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <rdfs:label>Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-441abcfb4ea5bb72c9e4dda9b57073dca75ee668</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#ff4baec49ce01978b9401abce30a6868166c77fe-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+    <rdfs:label>Friendship ff4baec49ce01978b9401abce30a6868166c77fe-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#74ad88ea7bae664bf6a625a014d5a77df3828691">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_30</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74ad88ea7bae664bf6a625a014d5a77df3828691</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_30</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b">
+    <rdfs:label>user_20</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_20</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0b43102d7c525e90e859f922159406d9cc13e1c2-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship 0b43102d7c525e90e859f922159406d9cc13e1c2-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0b43102d7c525e90e859f922159406d9cc13e1c2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0ae7daf473f5f07e58125ae5468449209ea17bd1</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_44</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_44</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <rdfs:label>Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#4333fef33f93621d40533486bc164d1febda34f8">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4333fef33f93621d40533486bc164d1febda34f8</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_23</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_23</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_55</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada</fb:uid>
+    <rdfs:label>user_55</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#111885f09fe6c434e52f569ea0414d3b46b4dd87-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 111885f09fe6c434e52f569ea0414d3b46b4dd87-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4acf621acb858c3fe42290864b2cf991066bcca5</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_14</fb:name>
+    <rdfs:label>user_14</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#6405c5508229011b26873663e4610cf4fc22ac37-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 6405c5508229011b26873663e4610cf4fc22ac37-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#8b8f4614c9db0ac743149d7b4758bd1c3acf8872">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8b8f4614c9db0ac743149d7b4758bd1c3acf8872</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_63</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_63</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-ff4baec49ce01978b9401abce30a6868166c77fe">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-ff4baec49ce01978b9401abce30a6868166c77fe</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#586d1130b1b9996e954ad11874bed0cdc974d592">
+    <rdfs:label>user_54</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_54</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">586d1130b1b9996e954ad11874bed0cdc974d592</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <rdfs:label>Friendship c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d727175560f77a2aa631844ef41028af915bc4f1-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship d727175560f77a2aa631844ef41028af915bc4f1-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58ccfa902c64de8634e8d19848ca85116a0c0e1a</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_5</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_5</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#60583d66f68e63f986d2482b2cba724c42ca5194">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>user_61</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60583d66f68e63f986d2482b2cba724c42ca5194</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_61</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_17</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_17</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#9a00da8f09916abea5709a8808dd8e43733b740c-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdfs:label>Friendship 9a00da8f09916abea5709a8808dd8e43733b740c-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9a00da8f09916abea5709a8808dd8e43733b740c"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#AdornoNaoEhEnfeite_interacoes">
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:45:53.940304</po:triplifiedIn>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-15</po:createdAt>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">265217103529531</fb:uid>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Adorno Nao Eh Enfeite_interacoes</rdfs:comment>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesMeta.owl</po:discorveryRDFFile>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/base/['..', 'data', 'fb', 'gdf', 'AdornoNaoEhEnfeite_interacoes.gdf']</po:originalFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AdornoNaoEhEnfeite_interacoes</po:donatedBy>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesMeta.ttl</po:discoveryTTLFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/AdornoNaoEhEnfeite_interacoes</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesTranslate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot AdornoNaoEhEnfeite_interacoes</rdfs:label>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesTranslate.ttl</po:ttlFile>
+    <fb:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/265217103529531/permalink/525654127485826/</fb:link>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d3696620f4b4b76ff34649e9c251de55c3115ff8-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8"/>
+    <rdfs:label>Friendship d3696620f4b4b76ff34649e9c251de55c3115ff8-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdfs:label>Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#88ee3b630210f8601a87eefa9c8a6772b3151674-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674"/>
+    <rdfs:label>Friendship 88ee3b630210f8601a87eefa9c8a6772b3151674-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">70</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_0</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34f4e78ef6e88681514323429fcb167b291b29be</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#8b31fc1a8cfcd512c88d984198a72cdc42f63a8d"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>user_0</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_50</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59d8c9150c1c742bbd0668f022a2d4db9d0488ee</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_50</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_27</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8bd054df3ff5d4cfe0df56244f6be357f6bf24b6</fb:uid>
+    <rdfs:label>user_27</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-ff4baec49ce01978b9401abce30a6868166c77fe">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-ff4baec49ce01978b9401abce30a6868166c77fe</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_36</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_36</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">88ee3b630210f8601a87eefa9c8a6772b3151674</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#43c651331f255801382d9b0c999d9fb93c4a9410">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_60</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43c651331f255801382d9b0c999d9fb93c4a9410</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>user_60</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b758e9f21ee9ee1b8f679868058b3780dd91dceb-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdfs:label>Friendship b758e9f21ee9ee1b8f679868058b3780dd91dceb-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>user_34</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_34</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_35</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">b620117ef8b98d86eb421d548201b0ceb3088d26</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_35</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_31</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ff4baec49ce01978b9401abce30a6868166c77fe</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_31</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdfs:label>user_8</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aa9c4873d7bcf6be3804ba02f12344e56da55fbf</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_8</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">111885f09fe6c434e52f569ea0414d3b46b4dd87</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_6</fb:name>
+    <rdfs:label>user_6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <rdfs:label>Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdfs:label>user_40</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_40</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">441abcfb4ea5bb72c9e4dda9b57073dca75ee668</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#6405c5508229011b26873663e4610cf4fc22ac37-111885f09fe6c434e52f569ea0414d3b46b4dd87">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 6405c5508229011b26873663e4610cf4fc22ac37-111885f09fe6c434e52f569ea0414d3b46b4dd87</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">c7eb6ecfbcebd079a252f0af81618a335304cffa</fb:uid>
+    <rdfs:label>user_2</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_2</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">d5cbec11618deda254ee067bff6b162e8ba6dd0b</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_45</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_45</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#ce12a9bf67365f7b3b4e96d45cb4c0273816c40d">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ce12a9bf67365f7b3b4e96d45cb4c0273816c40d</fb:uid>
+    <rdfs:label>user_46</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_46</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#111885f09fe6c434e52f569ea0414d3b46b4dd87-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b">
+    <rdfs:label>Friendship 111885f09fe6c434e52f569ea0414d3b46b4dd87-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#e006592e6d160eaa9bc37c2f5d45cb193b784fea">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_10</fb:name>
+    <rdfs:label>user_10</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">e006592e6d160eaa9bc37c2f5d45cb193b784fea</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>user_41</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_41</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">d3696620f4b4b76ff34649e9c251de55c3115ff8</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e4d6f6b1d467862a232d81c47e085e44f7f16175-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <rdfs:label>Friendship e4d6f6b1d467862a232d81c47e085e44f7f16175-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e4d6f6b1d467862a232d81c47e085e44f7f16175"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_11</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdfs:label>user_11</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4f27bc630e4dd0faa73609af9710d5a379b02743</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#43c651331f255801382d9b0c999d9fb93c4a9410-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#43c651331f255801382d9b0c999d9fb93c4a9410"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship 43c651331f255801382d9b0c999d9fb93c4a9410-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-25ea710e2eeff851e9ee31a9f87c6d973b4c5752">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-25ea710e2eeff851e9ee31a9f87c6d973b4c5752</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdfs:label>Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#2cdde11783bb31ecb5e0435e27951cef4ecef94e-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2cdde11783bb31ecb5e0435e27951cef4ecef94e"/>
+    <rdfs:label>Friendship 2cdde11783bb31ecb5e0435e27951cef4ecef94e-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <rdfs:label>user_29</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_29</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-8b31fc1a8cfcd512c88d984198a72cdc42f63a8d">
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-8b31fc1a8cfcd512c88d984198a72cdc42f63a8d</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#8b31fc1a8cfcd512c88d984198a72cdc42f63a8d"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-59d8c9150c1c742bbd0668f022a2d4db9d0488ee">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-59d8c9150c1c742bbd0668f022a2d4db9d0488ee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdfs:label>Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#899eb753ec555b70cf522346d0ffc13d51059ada">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_48</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdfs:label>user_48</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">899eb753ec555b70cf522346d0ffc13d51059ada</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <rdfs:label>Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf">
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <rdfs:label>user_21</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">b758e9f21ee9ee1b8f679868058b3780dd91dceb</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_21</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#193b166f878657bce576b982ef786df59e9cfe7a">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_59</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">193b166f878657bce576b982ef786df59e9cfe7a</fb:uid>
+    <rdfs:label>user_59</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#88ee3b630210f8601a87eefa9c8a6772b3151674-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdfs:label>Friendship 88ee3b630210f8601a87eefa9c8a6772b3151674-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#7632bda1a4731bff9a644973a87e7188022ed4a9">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_52</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7632bda1a4731bff9a644973a87e7188022ed4a9</fb:uid>
+    <rdfs:label>user_52</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-6ea6f35c0b8f246878fcf95965b868744df0f0e8">
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-6ea6f35c0b8f246878fcf95965b868744df0f0e8</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-111885f09fe6c434e52f569ea0414d3b46b4dd87">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-111885f09fe6c434e52f569ea0414d3b46b4dd87</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-441abcfb4ea5bb72c9e4dda9b57073dca75ee668">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-441abcfb4ea5bb72c9e4dda9b57073dca75ee668</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a"/>
+    <rdfs:label>Friendship 0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37">
+    <rdfs:label>user_42</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_42</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6405c5508229011b26873663e4610cf4fc22ac37</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-6ea6f35c0b8f246878fcf95965b868744df0f0e8">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-6ea6f35c0b8f246878fcf95965b868744df0f0e8</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#60583d66f68e63f986d2482b2cba724c42ca5194-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 60583d66f68e63f986d2482b2cba724c42ca5194-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#60583d66f68e63f986d2482b2cba724c42ca5194"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#26d844075553d22d07920b0dd9273ae2877974f8">
+    <rdfs:label>user_39</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_39</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26d844075553d22d07920b0dd9273ae2877974f8</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <rdfs:label>user_16</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_16</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25ea710e2eeff851e9ee31a9f87c6d973b4c5752</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#6ea6f35c0b8f246878fcf95965b868744df0f0e8-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <rdfs:label>Friendship 6ea6f35c0b8f246878fcf95965b868744df0f0e8-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-441abcfb4ea5bb72c9e4dda9b57073dca75ee668">
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-441abcfb4ea5bb72c9e4dda9b57073dca75ee668</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#eda597cb7c7c94e11863749a52a2c7d585ef49f2">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eda597cb7c7c94e11863749a52a2c7d585ef49f2</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_25</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>user_25</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdfs:label>Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-0ae7daf473f5f07e58125ae5468449209ea17bd1">
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-0ae7daf473f5f07e58125ae5468449209ea17bd1</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#2cdde11783bb31ecb5e0435e27951cef4ecef94e">
+    <rdfs:label>user_43</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2cdde11783bb31ecb5e0435e27951cef4ecef94e</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_43</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#82868cfde0f4ab7f759f9d2da41e3c2a6eab2644">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82868cfde0f4ab7f759f9d2da41e3c2a6eab2644</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_4</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d727175560f77a2aa631844ef41028af915bc4f1-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship d727175560f77a2aa631844ef41028af915bc4f1-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#266a6b8251d7154dedeab7c2b051b5a3069752cb-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#266a6b8251d7154dedeab7c2b051b5a3069752cb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 266a6b8251d7154dedeab7c2b051b5a3069752cb-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#e4d6f6b1d467862a232d81c47e085e44f7f16175">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_33</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">e4d6f6b1d467862a232d81c47e085e44f7f16175</fb:uid>
+    <rdfs:label>user_33</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d5cbec11618deda254ee067bff6b162e8ba6dd0b-59d8c9150c1c742bbd0668f022a2d4db9d0488ee">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship d5cbec11618deda254ee067bff6b162e8ba6dd0b-59d8c9150c1c742bbd0668f022a2d4db9d0488ee</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_22</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_22</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">889b92201ede006d4af59afb51cd2fafed846815</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#9a00da8f09916abea5709a8808dd8e43733b740c-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9a00da8f09916abea5709a8808dd8e43733b740c"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 9a00da8f09916abea5709a8808dd8e43733b740c-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa"/>
+    <rdfs:label>Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_19</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#7632bda1a4731bff9a644973a87e7188022ed4a9-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 7632bda1a4731bff9a644973a87e7188022ed4a9-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#7632bda1a4731bff9a644973a87e7188022ed4a9"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#441abcfb4ea5bb72c9e4dda9b57073dca75ee668-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <rdfs:label>Friendship 441abcfb4ea5bb72c9e4dda9b57073dca75ee668-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#a61dc894f3a4acaf287e02fe3bcb8db6a8240927-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship a61dc894f3a4acaf287e02fe3bcb8db6a8240927-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#a61dc894f3a4acaf287e02fe3bcb8db6a8240927"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-0ae7daf473f5f07e58125ae5468449209ea17bd1">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-0ae7daf473f5f07e58125ae5468449209ea17bd1</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#8b8f4614c9db0ac743149d7b4758bd1c3acf8872-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#8b8f4614c9db0ac743149d7b4758bd1c3acf8872"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 8b8f4614c9db0ac743149d7b4758bd1c3acf8872-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#350a638313394f62c4457a75206c875b85c2406b">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">350a638313394f62c4457a75206c875b85c2406b</fb:uid>
+    <rdfs:label>user_37</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_37</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdfs:label>Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#60ad4f263c0d33eca663b989a32084238886a249">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_57</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60ad4f263c0d33eca663b989a32084238886a249</fb:uid>
+    <rdfs:label>user_57</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-b620117ef8b98d86eb421d548201b0ceb3088d26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-b620117ef8b98d86eb421d548201b0ceb3088d26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#8b31fc1a8cfcd512c88d984198a72cdc42f63a8d">
+    <rdfs:label>user_15</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_15</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8b31fc1a8cfcd512c88d984198a72cdc42f63a8d</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdfs:label>Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#9a00da8f09916abea5709a8808dd8e43733b740c">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>user_38</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9a00da8f09916abea5709a8808dd8e43733b740c</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_38</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815"/>
+    <rdfs:label>Friendship 889b92201ede006d4af59afb51cd2fafed846815-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <rdfs:label>Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#6ea6f35c0b8f246878fcf95965b868744df0f0e8-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdfs:label>Friendship 6ea6f35c0b8f246878fcf95965b868744df0f0e8-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab"/>
+    <rdfs:label>Friendship c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#193b166f878657bce576b982ef786df59e9cfe7a-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship 193b166f878657bce576b982ef786df59e9cfe7a-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#193b166f878657bce576b982ef786df59e9cfe7a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">d727175560f77a2aa631844ef41028af915bc4f1</fb:uid>
+    <rdfs:label>user_51</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_51</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d3696620f4b4b76ff34649e9c251de55c3115ff8-0ae7daf473f5f07e58125ae5468449209ea17bd1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8"/>
+    <rdfs:label>Friendship d3696620f4b4b76ff34649e9c251de55c3115ff8-0ae7daf473f5f07e58125ae5468449209ea17bd1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-25ea710e2eeff851e9ee31a9f87c6d973b4c5752">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-25ea710e2eeff851e9ee31a9f87c6d973b4c5752</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815"/>
+    <rdfs:label>Friendship 889b92201ede006d4af59afb51cd2fafed846815-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdfs:label>Friendship 889b92201ede006d4af59afb51cd2fafed846815-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdfs:label>user_26</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_26</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_47</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9814bdde76ae9c50f79952d839ff2cb8fa4ffddf</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>user_47</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_49</fb:name>
+    <rdfs:label>user_49</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">c12761b8ba3e2c708e07e6000b29d7e101e8b8ab</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdfs:label>Friendship 9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdfs:label>Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b758e9f21ee9ee1b8f679868058b3780dd91dceb-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship b758e9f21ee9ee1b8f679868058b3780dd91dceb-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#d73162495ce33b30c42854dee2c52f9b09de7243">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">d73162495ce33b30c42854dee2c52f9b09de7243</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_32</fb:name>
+    <rdfs:label>user_32</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-25ea710e2eeff851e9ee31a9f87c6d973b4c5752">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-25ea710e2eeff851e9ee31a9f87c6d973b4c5752</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdfs:label>Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#6405c5508229011b26873663e4610cf4fc22ac37-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37"/>
+    <rdfs:label>Friendship 6405c5508229011b26873663e4610cf4fc22ac37-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b758e9f21ee9ee1b8f679868058b3780dd91dceb-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <rdfs:label>Friendship b758e9f21ee9ee1b8f679868058b3780dd91dceb-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-111885f09fe6c434e52f569ea0414d3b46b4dd87">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-111885f09fe6c434e52f569ea0414d3b46b4dd87</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#26d844075553d22d07920b0dd9273ae2877974f8-ff4baec49ce01978b9401abce30a6868166c77fe">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#26d844075553d22d07920b0dd9273ae2877974f8"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 26d844075553d22d07920b0dd9273ae2877974f8-ff4baec49ce01978b9401abce30a6868166c77fe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#88ee3b630210f8601a87eefa9c8a6772b3151674-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 88ee3b630210f8601a87eefa9c8a6772b3151674-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e006592e6d160eaa9bc37c2f5d45cb193b784fea-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e006592e6d160eaa9bc37c2f5d45cb193b784fea"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship e006592e6d160eaa9bc37c2f5d45cb193b784fea-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-441abcfb4ea5bb72c9e4dda9b57073dca75ee668">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-441abcfb4ea5bb72c9e4dda9b57073dca75ee668</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#ae34d80a7f1090992d1b5b46aea2bd32058626a0-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ae34d80a7f1090992d1b5b46aea2bd32058626a0"/>
+    <rdfs:label>Friendship ae34d80a7f1090992d1b5b46aea2bd32058626a0-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4333fef33f93621d40533486bc164d1febda34f8-b758e9f21ee9ee1b8f679868058b3780dd91dceb">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4333fef33f93621d40533486bc164d1febda34f8"/>
+    <rdfs:label>Friendship 4333fef33f93621d40533486bc164d1febda34f8-b758e9f21ee9ee1b8f679868058b3780dd91dceb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b620117ef8b98d86eb421d548201b0ceb3088d26">
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b620117ef8b98d86eb421d548201b0ceb3088d26</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#a61dc894f3a4acaf287e02fe3bcb8db6a8240927">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a61dc894f3a4acaf287e02fe3bcb8db6a8240927</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_12</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>user_12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c">
+    <rdfs:label>user_13</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_13</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">afb730a3b527bcd99dba77d7c781dff15efbc73c</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-b620117ef8b98d86eb421d548201b0ceb3088d26">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-b620117ef8b98d86eb421d548201b0ceb3088d26</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdfs:label>Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#899eb753ec555b70cf522346d0ffc13d51059ada-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 899eb753ec555b70cf522346d0ffc13d51059ada-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#899eb753ec555b70cf522346d0ffc13d51059ada"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdfs:label>Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_28</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdfs:label>user_28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#ae34d80a7f1090992d1b5b46aea2bd32058626a0">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ae34d80a7f1090992d1b5b46aea2bd32058626a0</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_7</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_7</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#293624d809532c07173c0e32cdb85090b73dac5e-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 293624d809532c07173c0e32cdb85090b73dac5e-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#293624d809532c07173c0e32cdb85090b73dac5e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#ff4baec49ce01978b9401abce30a6868166c77fe-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdfs:label>Friendship ff4baec49ce01978b9401abce30a6868166c77fe-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#441abcfb4ea5bb72c9e4dda9b57073dca75ee668-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 441abcfb4ea5bb72c9e4dda9b57073dca75ee668-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdfs:label>Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-6ea6f35c0b8f246878fcf95965b868744df0f0e8">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-6ea6f35c0b8f246878fcf95965b868744df0f0e8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#74ad88ea7bae664bf6a625a014d5a77df3828691-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#74ad88ea7bae664bf6a625a014d5a77df3828691"/>
+    <rdfs:label>Friendship 74ad88ea7bae664bf6a625a014d5a77df3828691-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdfs:label>Friendship cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6ea6f35c0b8f246878fcf95965b868744df0f0e8</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_18</fb:name>
+    <rdfs:label>user_18</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-822cf63cc461a6fb87eb704215f0abea916c7305">
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-822cf63cc461a6fb87eb704215f0abea916c7305</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d727175560f77a2aa631844ef41028af915bc4f1-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1"/>
+    <rdfs:label>Friendship d727175560f77a2aa631844ef41028af915bc4f1-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <rdfs:label>Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdfs:label>Friendship 8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#eda597cb7c7c94e11863749a52a2c7d585ef49f2-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#eda597cb7c7c94e11863749a52a2c7d585ef49f2"/>
+    <rdfs:label>Friendship eda597cb7c7c94e11863749a52a2c7d585ef49f2-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d5cbec11618deda254ee067bff6b162e8ba6dd0b-6ea6f35c0b8f246878fcf95965b868744df0f0e8">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8"/>
+    <rdfs:label>Friendship d5cbec11618deda254ee067bff6b162e8ba6dd0b-6ea6f35c0b8f246878fcf95965b868744df0f0e8</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d3696620f4b4b76ff34649e9c251de55c3115ff8-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship d3696620f4b4b76ff34649e9c251de55c3115ff8-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#7b0d2099c6ac8aa4a7dd37050b6538eaed042763">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>user_62</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_62</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7b0d2099c6ac8aa4a7dd37050b6538eaed042763</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#82868cfde0f4ab7f759f9d2da41e3c2a6eab2644-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 82868cfde0f4ab7f759f9d2da41e3c2a6eab2644-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#82868cfde0f4ab7f759f9d2da41e3c2a6eab2644"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <rdfs:label>Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#74ad88ea7bae664bf6a625a014d5a77df3828691-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#74ad88ea7bae664bf6a625a014d5a77df3828691"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 74ad88ea7bae664bf6a625a014d5a77df3828691-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-111885f09fe6c434e52f569ea0414d3b46b4dd87">
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-111885f09fe6c434e52f569ea0414d3b46b4dd87</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ce12a9bf67365f7b3b4e96d45cb4c0273816c40d"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdfs:label>user_56</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_56</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0489f676e00f5c6596daf9984f6c0fc58b4e9b4a</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdfs:label>Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-58ccfa902c64de8634e8d19848ca85116a0c0e1a">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a"/>
+    <rdfs:label>Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-58ccfa902c64de8634e8d19848ca85116a0c0e1a</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#0b43102d7c525e90e859f922159406d9cc13e1c2">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0b43102d7c525e90e859f922159406d9cc13e1c2</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>user_58</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">user_58</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b">
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <rdfs:label>Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-0ae7daf473f5f07e58125ae5468449209ea17bd1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+    <rdfs:label>Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-0ae7daf473f5f07e58125ae5468449209ea17bd1</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#d5cbec11618deda254ee067bff6b162e8ba6dd0b-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+    <rdfs:label>Friendship d5cbec11618deda254ee067bff6b162e8ba6dd0b-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#7b0d2099c6ac8aa4a7dd37050b6538eaed042763-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship 7b0d2099c6ac8aa4a7dd37050b6538eaed042763-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#7b0d2099c6ac8aa4a7dd37050b6538eaed042763"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-e1ab4ee2d1da43388d7b6b7649416915520ccc58">
+    <rdfs:label>Friendship 889b92201ede006d4af59afb51cd2fafed846815-e1ab4ee2d1da43388d7b6b7649416915520ccc58</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-aa9c4873d7bcf6be3804ba02f12344e56da55fbf">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-aa9c4873d7bcf6be3804ba02f12344e56da55fbf</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-b4e75f8f131689b08999fc952f572822849d3dcb">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+    <rdfs:label>Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-b4e75f8f131689b08999fc952f572822849d3dcb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#350a638313394f62c4457a75206c875b85c2406b-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 350a638313394f62c4457a75206c875b85c2406b-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#350a638313394f62c4457a75206c875b85c2406b"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1">
+    <rdfs:label>Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdfs:label>Friendship ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305"/>
+    <rdfs:label>Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#60ad4f263c0d33eca663b989a32084238886a249-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#60ad4f263c0d33eca663b989a32084238886a249"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 60ad4f263c0d33eca663b989a32084238886a249-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#4333fef33f93621d40533486bc164d1febda34f8-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4333fef33f93621d40533486bc164d1febda34f8"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 4333fef33f93621d40533486bc164d1febda34f8-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#586d1130b1b9996e954ad11874bed0cdc974d592-34f4e78ef6e88681514323429fcb167b291b29be">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#586d1130b1b9996e954ad11874bed0cdc974d592"/>
+    <rdfs:label>Friendship 586d1130b1b9996e954ad11874bed0cdc974d592-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-4f27bc630e4dd0faa73609af9710d5a379b02743">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743"/>
+    <rdfs:label>Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-4f27bc630e4dd0faa73609af9710d5a379b02743</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#ff4baec49ce01978b9401abce30a6868166c77fe-34f4e78ef6e88681514323429fcb167b291b29be">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship ff4baec49ce01978b9401abce30a6868166c77fe-34f4e78ef6e88681514323429fcb167b291b29be</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-59d8c9150c1c742bbd0668f022a2d4db9d0488ee">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee"/>
+    <rdfs:label>Friendship b4e75f8f131689b08999fc952f572822849d3dcb-59d8c9150c1c742bbd0668f022a2d4db9d0488ee</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-b620117ef8b98d86eb421d548201b0ceb3088d26">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be"/>
+    <rdfs:label>Friendship 34f4e78ef6e88681514323429fcb167b291b29be-b620117ef8b98d86eb421d548201b0ceb3088d26</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/friend">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#LuisCirne07032013">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-07</po:createdAt>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Meta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <rdfs:label>Snapshot LuisCirne07032013</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Meta.ttl</po:discoveryTTLFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/LuisCirne07032013</po:availableAt>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lufcirne</fb:sid>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/base/LuisCirne07032013.gml</po:originalFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Luis Cirne</rdfs:comment>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">717903828</fb:uid>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T12:14:12.771345</po:triplifiedIn>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LuisCirne</po:donatedBy>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Translate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Translate.ttl</po:ttlFile>
+  </rdf:Description>
+</rdf:RDF>

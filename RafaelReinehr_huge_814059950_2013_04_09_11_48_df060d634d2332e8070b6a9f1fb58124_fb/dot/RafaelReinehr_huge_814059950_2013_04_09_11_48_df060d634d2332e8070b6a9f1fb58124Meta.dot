@@ -1,0 +1,63 @@
+digraph  {
+	graph [label="Metadata for my facebook ego friendship network RDF files"];
+	node [label="\N"];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124"	 [color="#02F3DD",
+		style=filled];
+	13	 [color="#02F3F1",
+		label="2013-04-09",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 13	 [label=createdAt];
+	14	 [color="#02F3F1",
+		label="2015-12-03 12:52:48.831853",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 14	 [label=triplifiedIn];
+	15	 [color="#02F3F1",
+		label=RafaelReinehr,
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 15	 [label=donatedBy];
+	16	 [color="#02F3F1",
+		label="https://github.com/ttm/RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 16	 [label=availableAt];
+	17	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124/master/base/['\
+..', 'data', 'fb', 'gdf', 'RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124.gdf']",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 17	 [label=originalFile];
+	18	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124/master/rdf/\
+RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124Translate.owl",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 18	 [label=rdfFile];
+	19	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124/master/rdf/\
+RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124Translate.ttl",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 19	 [label=ttlFile];
+	20	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124/master/rdf/\
+RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124Meta.owl",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 20	 [label=discorveryRDFFile];
+	21	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124/master/rdf/\
+RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124Meta.ttl",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 21	 [label=discoveryTTLFile];
+	22	 [color="#02F3F1",
+		label=Netvizz,
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 22	 [label=acquiredThrough];
+	23	 [color="#02F3F1",
+		label="The facebook friendship network from Rafael Reinehr",
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 23	 [label="rdf-schema#comment"];
+	24	 [color="#02F3F1",
+		label=reinehr,
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 24	 [label=sid];
+	25	 [color="#02F3F1",
+		label=814059950,
+		style=filled];
+	"Snapshot RafaelReinehr_huge_814059950_2013_04_09_11_48_df060d634d2332e8070b6a9f1fb58124" -> 25	 [label=uid];
+}

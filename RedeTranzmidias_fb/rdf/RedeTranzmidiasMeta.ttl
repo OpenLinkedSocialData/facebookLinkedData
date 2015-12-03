@@ -1,0 +1,25 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#RedeTranzmidias> a po:Snapshot ;
+    rdfs:label "Snapshot RedeTranzmidias" ;
+    ns1:link "https://www.facebook.com/groups/318333384951196/permalink/346658712118663/"^^xsd:string ;
+    ns1:uid "318333384951196"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/RedeTranzmidias"^^xsd:string ;
+    po:createdAt "2013-03-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/RedeTranzmidias/master/rdf/RedeTranzmidiasMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/RedeTranzmidias/master/rdf/RedeTranzmidiasMeta.ttl"^^xsd:string ;
+    po:donatedBy "RedeTranzmidias"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/RedeTranzmidias/master/base/['..', 'data', 'fb', 'gdf', 'RedeTranzmidias.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/RedeTranzmidias/master/rdf/RedeTranzmidiasTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:46:08.623969"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/RedeTranzmidias/master/rdf/RedeTranzmidiasTranslate.ttl"^^xsd:string ;
+    po:uid "318333384951196"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Rede Tranzmidias"^^xsd:string .
+

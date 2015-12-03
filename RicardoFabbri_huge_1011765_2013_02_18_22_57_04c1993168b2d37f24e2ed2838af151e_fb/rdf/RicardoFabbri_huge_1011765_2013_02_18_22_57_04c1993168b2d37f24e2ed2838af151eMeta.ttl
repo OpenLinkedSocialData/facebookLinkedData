@@ -1,0 +1,24 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e> a po:Snapshot ;
+    rdfs:label "Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" ;
+    fb:sid "ricardofabbri"^^xsd:string ;
+    fb:uid "1011765"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e"^^xsd:string ;
+    po:createdAt "2013-02-18"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eMeta.ttl"^^xsd:string ;
+    po:donatedBy "RicardoFabbri"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/base/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e.gml"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T03:34:13.017752"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Ricardo Fabbri"^^xsd:string .
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e">
+    <rdfs:label>Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e</rdfs:label>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-02-18</po:createdAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eTranslate.owl</po:rdfFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T03:34:13.017752</po:triplifiedIn>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1011765</fb:uid>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ricardofabbri</fb:sid>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RicardoFabbri</po:donatedBy>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/base/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e.gml</po:originalFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eMeta.ttl</po:discoveryTTLFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e</po:availableAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eTranslate.ttl</po:ttlFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Ricardo Fabbri</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

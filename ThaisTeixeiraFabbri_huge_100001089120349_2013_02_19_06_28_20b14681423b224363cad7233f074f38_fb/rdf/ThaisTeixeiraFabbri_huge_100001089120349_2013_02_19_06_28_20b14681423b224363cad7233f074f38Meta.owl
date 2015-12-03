@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38">
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Meta.ttl</po:discoveryTTLFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38</po:availableAt>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T03:21:43.367525</po:triplifiedIn>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Meta.owl</po:discorveryRDFFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-02-19</po:createdAt>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001089120349</fb:uid>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thais.t.fabbri</fb:sid>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ThaisTeixeiraFabbri</po:donatedBy>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Translate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Translate.ttl</po:ttlFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Thais Teixeira Fabbri</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38</rdfs:label>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/master/base/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38.gml</po:originalFile>
+  </rdf:Description>
+</rdf:RDF>

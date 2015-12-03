@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#AtivistasDaInclusaoDigital">
+    <po:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">423602557691243</po:uid>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalMeta.ttl</po:discoveryTTLFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AtivistasDaInclusaoDigital</po:donatedBy>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">423602557691243</ns1:uid>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:46:19.040161</po:triplifiedIn>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalTranslate.ttl</po:ttlFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Ativistas Da Inclusao Digital</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/423602557691243/permalink/525201037531394/</ns1:link>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalTranslate.owl</po:rdfFile>
+    <rdfs:label>Snapshot AtivistasDaInclusaoDigital</rdfs:label>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-15</po:createdAt>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalMeta.owl</po:discorveryRDFFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/AtivistasDaInclusaoDigital</po:availableAt>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/base/['..', 'data', 'fb', 'gdf', 'AtivistasDaInclusaoDigital.gdf']</po:originalFile>
+  </rdf:Description>
+</rdf:RDF>

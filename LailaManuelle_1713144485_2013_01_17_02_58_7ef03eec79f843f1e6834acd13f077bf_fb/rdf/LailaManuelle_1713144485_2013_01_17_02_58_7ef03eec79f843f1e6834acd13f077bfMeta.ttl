@@ -1,0 +1,24 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf> a po:Snapshot ;
+    rdfs:label "Snapshot LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf" ;
+    ns1:sid "laila.manuelle"^^xsd:string ;
+    ns1:uid "1713144485"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf"^^xsd:string ;
+    po:createdAt "2013-01-17"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfMeta.ttl"^^xsd:string ;
+    po:donatedBy "LailaManuelle"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/base/['..', 'data', 'fb', 'gdf', 'LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T12:45:24.143358"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Laila Manuelle"^^xsd:string .
+

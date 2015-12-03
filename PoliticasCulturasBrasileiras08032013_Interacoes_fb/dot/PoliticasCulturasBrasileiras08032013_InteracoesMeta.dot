@@ -1,0 +1,63 @@
+digraph  {
+	graph [label="Metadata for my facebook ego friendship network RDF files"];
+	node [label="\N"];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes"	 [color="#02F3DD",
+		style=filled];
+	79688	 [color="#02F3F1",
+		label="2013-03-08",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79688	 [label=createdAt];
+	79689	 [color="#02F3F1",
+		label="2015-12-03 02:58:26.604794",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79689	 [label=triplifiedIn];
+	79690	 [color="#02F3F1",
+		label=PoliticasCulturasBrasileiras,
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79690	 [label=donatedBy];
+	79691	 [color="#02F3F1",
+		label="https://github.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79691	 [label=availableAt];
+	79692	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/base/['..', 'data', 'fb', 'gdf', 'PoliticasCulturasBrasileiras08032013_\
+Interacoes.gdf']",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79692	 [label=originalFile];
+	79693	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_\
+InteracoesTranslate.owl",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79693	 [label=rdfFile];
+	79694	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_\
+InteracoesTranslate.ttl",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79694	 [label=ttlFile];
+	79695	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_\
+InteracoesMeta.owl",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79695	 [label=discorveryRDFFile];
+	79696	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_\
+InteracoesMeta.ttl",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79696	 [label=discoveryTTLFile];
+	79697	 [color="#02F3F1",
+		label=Netvizz,
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79697	 [label=acquiredThrough];
+	79698	 [color="#02F3F1",
+		label="The facebook friendship network from Politicas Culturas Brasileiras",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79698	 [label="rdf-schema#comment"];
+	79699	 [color="#02F3F1",
+		label=pcult,
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79699	 [label=sid];
+	79700	 [color="#02F3F1",
+		label="https://www.facebook.com/groups/pcult/permalink/519626544747423/",
+		style=filled];
+	"Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" -> 79700	 [label=link];
+}

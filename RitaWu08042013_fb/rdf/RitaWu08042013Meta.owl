@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#RitaWu08042013">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Rita Wu</rdfs:comment>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Meta.ttl</po:discoveryTTLFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-04-08</po:createdAt>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T03:22:15.727058</po:triplifiedIn>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:sid>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Translate.owl</po:rdfFile>
+    <rdfs:label>Snapshot RitaWu08042013</rdfs:label>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/RitaWu08042013</po:availableAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Translate.ttl</po:ttlFile>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100009639240215</fb:uid>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RitaWu08042013/master/base/RitaWu08042013.gml</po:originalFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RitaWu</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RitaWu08042013/master/rdf/RitaWu08042013Meta.owl</po:discorveryRDFFile>
+  </rdf:Description>
+</rdf:RDF>

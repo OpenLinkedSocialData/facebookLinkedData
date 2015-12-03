@@ -1,0 +1,24 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#RenatoFabbri03032013> a po:Snapshot ;
+    rdfs:label "Snapshot RenatoFabbri03032013" ;
+    fb:sid "renato.fabbri"^^xsd:string ;
+    fb:uid "781909429"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/RenatoFabbri03032013"^^xsd:string ;
+    po:createdAt "2013-03-03"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/RenatoFabbri03032013/master/rdf/RenatoFabbri03032013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/RenatoFabbri03032013/master/rdf/RenatoFabbri03032013Meta.ttl"^^xsd:string ;
+    po:donatedBy "RenatoFabbri"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/RenatoFabbri03032013/master/base/RenatoFabbri03032013.gml"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/RenatoFabbri03032013/master/rdf/RenatoFabbri03032013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T05:13:20.679188"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/RenatoFabbri03032013/master/rdf/RenatoFabbri03032013Translate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Renato Fabbri"^^xsd:string .
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#DemocraciaPura06042013">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-04-06</po:createdAt>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura06042013/master/base/['..', 'data', 'fb', 'gdf', 'DemocraciaPura06042013.gdf']</po:originalFile>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">democraciapura</ns1:sid>
+    <po:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">222540354541008</po:uid>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/DemocraciaPura06042013</po:availableAt>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/democraciapura/permalink/310907215704321/</ns1:link>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura06042013/master/rdf/DemocraciaPura06042013Meta.ttl</po:discoveryTTLFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura06042013/master/rdf/DemocraciaPura06042013Translate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot DemocraciaPura06042013</rdfs:label>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura06042013/master/rdf/DemocraciaPura06042013Translate.ttl</po:ttlFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Democracia Pura</rdfs:comment>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DemocraciaPura</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaPura06042013/master/rdf/DemocraciaPura06042013Meta.owl</po:discorveryRDFFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:45:54.596063</po:triplifiedIn>
+  </rdf:Description>
+</rdf:RDF>

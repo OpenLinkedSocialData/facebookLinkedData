@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#EconomiaCriativaDigital03032013_interactions">
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Economia Criativa Digital</rdfs:comment>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/EconomiaCriativaDigital03032013_interactions/master/rdf/EconomiaCriativaDigital03032013_interactionsTranslate.owl</po:rdfFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EconomiaCriativaDigital</po:donatedBy>
+    <rdfs:label>Snapshot EconomiaCriativaDigital03032013_interactions</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/EconomiaCriativaDigital03032013_interactions/master/rdf/EconomiaCriativaDigital03032013_interactionsMeta.ttl</po:discoveryTTLFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:55:52.634466</po:triplifiedIn>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-03</po:createdAt>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/EconomiaCriativaDigital03032013_interactions</po:availableAt>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">economiacriativadigital</ns1:sid>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/economiacriativadigital/permalink/438313682916103/</ns1:link>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/EconomiaCriativaDigital03032013_interactions/master/rdf/EconomiaCriativaDigital03032013_interactionsTranslate.ttl</po:ttlFile>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/EconomiaCriativaDigital03032013_interactions/master/base/['..', 'data', 'fb', 'gdf', 'EconomiaCriativaDigital03032013_interactions.gdf']</po:originalFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/EconomiaCriativaDigital03032013_interactions/master/rdf/EconomiaCriativaDigital03032013_interactionsMeta.owl</po:discorveryRDFFile>
+  </rdf:Description>
+</rdf:RDF>

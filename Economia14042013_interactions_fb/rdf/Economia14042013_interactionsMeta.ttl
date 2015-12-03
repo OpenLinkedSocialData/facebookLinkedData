@@ -1,0 +1,24 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#Economia14042013_interactions> a po:Snapshot ;
+    rdfs:label "Snapshot Economia14042013_interactions" ;
+    ns1:link "https://www.facebook.com/groups/economa1/permalink/586007714743535/"^^xsd:string ;
+    ns1:sid "economa1"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/Economia14042013_interactions"^^xsd:string ;
+    po:createdAt "2013-04-14"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsMeta.ttl"^^xsd:string ;
+    po:donatedBy "Economia"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/base/['..', 'data', 'fb', 'gdf', 'Economia14042013_interactions.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:51:35.414028"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Economia"^^xsd:string .
+

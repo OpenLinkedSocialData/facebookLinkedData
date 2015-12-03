@@ -1,0 +1,1584 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 0489f676e00f5c6596daf9984f6c0fc58b4e9b4a-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> a fb:Friendship ;
+    rdfs:label "Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0ae7daf473f5f07e58125ae5468449209ea17bd1-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 0ae7daf473f5f07e58125ae5468449209ea17bd1-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#0b43102d7c525e90e859f922159406d9cc13e1c2-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 0b43102d7c525e90e859f922159406d9cc13e1c2-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0b43102d7c525e90e859f922159406d9cc13e1c2>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#111885f09fe6c434e52f569ea0414d3b46b4dd87-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 111885f09fe6c434e52f569ea0414d3b46b4dd87-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#111885f09fe6c434e52f569ea0414d3b46b4dd87-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> a fb:Friendship ;
+    rdfs:label "Friendship 111885f09fe6c434e52f569ea0414d3b46b4dd87-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> .
+
+<http://purl.org/socialparticipation/fb/Friendship#193b166f878657bce576b982ef786df59e9cfe7a-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 193b166f878657bce576b982ef786df59e9cfe7a-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#193b166f878657bce576b982ef786df59e9cfe7a>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-441abcfb4ea5bb72c9e4dda9b57073dca75ee668> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-441abcfb4ea5bb72c9e4dda9b57073dca75ee668" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b620117ef8b98d86eb421d548201b0ceb3088d26> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b620117ef8b98d86eb421d548201b0ceb3088d26" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#25ea710e2eeff851e9ee31a9f87c6d973b4c5752-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 25ea710e2eeff851e9ee31a9f87c6d973b4c5752-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#266a6b8251d7154dedeab7c2b051b5a3069752cb-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 266a6b8251d7154dedeab7c2b051b5a3069752cb-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#266a6b8251d7154dedeab7c2b051b5a3069752cb>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#26d844075553d22d07920b0dd9273ae2877974f8-ff4baec49ce01978b9401abce30a6868166c77fe> a fb:Friendship ;
+    rdfs:label "Friendship 26d844075553d22d07920b0dd9273ae2877974f8-ff4baec49ce01978b9401abce30a6868166c77fe" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#26d844075553d22d07920b0dd9273ae2877974f8>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> .
+
+<http://purl.org/socialparticipation/fb/Friendship#293624d809532c07173c0e32cdb85090b73dac5e-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 293624d809532c07173c0e32cdb85090b73dac5e-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#293624d809532c07173c0e32cdb85090b73dac5e>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#2cdde11783bb31ecb5e0435e27951cef4ecef94e-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 2cdde11783bb31ecb5e0435e27951cef4ecef94e-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2cdde11783bb31ecb5e0435e27951cef4ecef94e>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> .
+
+<http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> .
+
+<http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship 2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-0ae7daf473f5f07e58125ae5468449209ea17bd1> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-0ae7daf473f5f07e58125ae5468449209ea17bd1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-111885f09fe6c434e52f569ea0414d3b46b4dd87> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-111885f09fe6c434e52f569ea0414d3b46b4dd87" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-25ea710e2eeff851e9ee31a9f87c6d973b4c5752" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-441abcfb4ea5bb72c9e4dda9b57073dca75ee668> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-441abcfb4ea5bb72c9e4dda9b57073dca75ee668" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-6ea6f35c0b8f246878fcf95965b868744df0f0e8> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-6ea6f35c0b8f246878fcf95965b868744df0f0e8" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-8b31fc1a8cfcd512c88d984198a72cdc42f63a8d> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-8b31fc1a8cfcd512c88d984198a72cdc42f63a8d" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#8b31fc1a8cfcd512c88d984198a72cdc42f63a8d> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-b620117ef8b98d86eb421d548201b0ceb3088d26> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-b620117ef8b98d86eb421d548201b0ceb3088d26" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#34f4e78ef6e88681514323429fcb167b291b29be-ff4baec49ce01978b9401abce30a6868166c77fe> a fb:Friendship ;
+    rdfs:label "Friendship 34f4e78ef6e88681514323429fcb167b291b29be-ff4baec49ce01978b9401abce30a6868166c77fe" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> .
+
+<http://purl.org/socialparticipation/fb/Friendship#350a638313394f62c4457a75206c875b85c2406b-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 350a638313394f62c4457a75206c875b85c2406b-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#350a638313394f62c4457a75206c875b85c2406b> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4333fef33f93621d40533486bc164d1febda34f8-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 4333fef33f93621d40533486bc164d1febda34f8-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4333fef33f93621d40533486bc164d1febda34f8> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4333fef33f93621d40533486bc164d1febda34f8-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship 4333fef33f93621d40533486bc164d1febda34f8-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4333fef33f93621d40533486bc164d1febda34f8>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#43c651331f255801382d9b0c999d9fb93c4a9410-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 43c651331f255801382d9b0c999d9fb93c4a9410-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#43c651331f255801382d9b0c999d9fb93c4a9410>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#441abcfb4ea5bb72c9e4dda9b57073dca75ee668-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 441abcfb4ea5bb72c9e4dda9b57073dca75ee668-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668> .
+
+<http://purl.org/socialparticipation/fb/Friendship#441abcfb4ea5bb72c9e4dda9b57073dca75ee668-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> a fb:Friendship ;
+    rdfs:label "Friendship 441abcfb4ea5bb72c9e4dda9b57073dca75ee668-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-111885f09fe6c434e52f569ea0414d3b46b4dd87> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-111885f09fe6c434e52f569ea0414d3b46b4dd87" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-6ea6f35c0b8f246878fcf95965b868744df0f0e8> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-6ea6f35c0b8f246878fcf95965b868744df0f0e8" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-b620117ef8b98d86eb421d548201b0ceb3088d26> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-b620117ef8b98d86eb421d548201b0ceb3088d26" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4acf621acb858c3fe42290864b2cf991066bcca5-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship 4acf621acb858c3fe42290864b2cf991066bcca5-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#4f27bc630e4dd0faa73609af9710d5a379b02743-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship 4f27bc630e4dd0faa73609af9710d5a379b02743-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#586d1130b1b9996e954ad11874bed0cdc974d592-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 586d1130b1b9996e954ad11874bed0cdc974d592-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#586d1130b1b9996e954ad11874bed0cdc974d592> .
+
+<http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> .
+
+<http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> .
+
+<http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#58ccfa902c64de8634e8d19848ca85116a0c0e1a-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 58ccfa902c64de8634e8d19848ca85116a0c0e1a-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#60583d66f68e63f986d2482b2cba724c42ca5194-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 60583d66f68e63f986d2482b2cba724c42ca5194-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#60583d66f68e63f986d2482b2cba724c42ca5194> .
+
+<http://purl.org/socialparticipation/fb/Friendship#60ad4f263c0d33eca663b989a32084238886a249-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 60ad4f263c0d33eca663b989a32084238886a249-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#60ad4f263c0d33eca663b989a32084238886a249> .
+
+<http://purl.org/socialparticipation/fb/Friendship#6405c5508229011b26873663e4610cf4fc22ac37-111885f09fe6c434e52f569ea0414d3b46b4dd87> a fb:Friendship ;
+    rdfs:label "Friendship 6405c5508229011b26873663e4610cf4fc22ac37-111885f09fe6c434e52f569ea0414d3b46b4dd87" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37> .
+
+<http://purl.org/socialparticipation/fb/Friendship#6405c5508229011b26873663e4610cf4fc22ac37-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 6405c5508229011b26873663e4610cf4fc22ac37-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#6405c5508229011b26873663e4610cf4fc22ac37-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 6405c5508229011b26873663e4610cf4fc22ac37-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada> .
+
+<http://purl.org/socialparticipation/fb/Friendship#6ea6f35c0b8f246878fcf95965b868744df0f0e8-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship 6ea6f35c0b8f246878fcf95965b868744df0f0e8-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#6ea6f35c0b8f246878fcf95965b868744df0f0e8-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 6ea6f35c0b8f246878fcf95965b868744df0f0e8-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#74ad88ea7bae664bf6a625a014d5a77df3828691-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 74ad88ea7bae664bf6a625a014d5a77df3828691-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#74ad88ea7bae664bf6a625a014d5a77df3828691> .
+
+<http://purl.org/socialparticipation/fb/Friendship#74ad88ea7bae664bf6a625a014d5a77df3828691-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship 74ad88ea7bae664bf6a625a014d5a77df3828691-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#74ad88ea7bae664bf6a625a014d5a77df3828691>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#7632bda1a4731bff9a644973a87e7188022ed4a9-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 7632bda1a4731bff9a644973a87e7188022ed4a9-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#7632bda1a4731bff9a644973a87e7188022ed4a9> .
+
+<http://purl.org/socialparticipation/fb/Friendship#7b0d2099c6ac8aa4a7dd37050b6538eaed042763-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 7b0d2099c6ac8aa4a7dd37050b6538eaed042763-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#7b0d2099c6ac8aa4a7dd37050b6538eaed042763> .
+
+<http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> .
+
+<http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#822cf63cc461a6fb87eb704215f0abea916c7305-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 822cf63cc461a6fb87eb704215f0abea916c7305-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#82868cfde0f4ab7f759f9d2da41e3c2a6eab2644-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 82868cfde0f4ab7f759f9d2da41e3c2a6eab2644-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#82868cfde0f4ab7f759f9d2da41e3c2a6eab2644> .
+
+<http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63> .
+
+<http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63> .
+
+<http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63> .
+
+<http://purl.org/socialparticipation/fb/Friendship#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship 83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63> .
+
+<http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 889b92201ede006d4af59afb51cd2fafed846815-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815> .
+
+<http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship 889b92201ede006d4af59afb51cd2fafed846815-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815> .
+
+<http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship 889b92201ede006d4af59afb51cd2fafed846815-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#889b92201ede006d4af59afb51cd2fafed846815-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 889b92201ede006d4af59afb51cd2fafed846815-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#88ee3b630210f8601a87eefa9c8a6772b3151674-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 88ee3b630210f8601a87eefa9c8a6772b3151674-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674> .
+
+<http://purl.org/socialparticipation/fb/Friendship#88ee3b630210f8601a87eefa9c8a6772b3151674-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 88ee3b630210f8601a87eefa9c8a6772b3151674-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674> .
+
+<http://purl.org/socialparticipation/fb/Friendship#88ee3b630210f8601a87eefa9c8a6772b3151674-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship 88ee3b630210f8601a87eefa9c8a6772b3151674-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#899eb753ec555b70cf522346d0ffc13d51059ada-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 899eb753ec555b70cf522346d0ffc13d51059ada-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#899eb753ec555b70cf522346d0ffc13d51059ada> .
+
+<http://purl.org/socialparticipation/fb/Friendship#8b8f4614c9db0ac743149d7b4758bd1c3acf8872-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 8b8f4614c9db0ac743149d7b4758bd1c3acf8872-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#8b8f4614c9db0ac743149d7b4758bd1c3acf8872> .
+
+<http://purl.org/socialparticipation/fb/Friendship#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6> .
+
+<http://purl.org/socialparticipation/fb/Friendship#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6> .
+
+<http://purl.org/socialparticipation/fb/Friendship#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship 8bd054df3ff5d4cfe0df56244f6be357f6bf24b6-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6> .
+
+<http://purl.org/socialparticipation/fb/Friendship#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#9a00da8f09916abea5709a8808dd8e43733b740c-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship 9a00da8f09916abea5709a8808dd8e43733b740c-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#9a00da8f09916abea5709a8808dd8e43733b740c> .
+
+<http://purl.org/socialparticipation/fb/Friendship#9a00da8f09916abea5709a8808dd8e43733b740c-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship 9a00da8f09916abea5709a8808dd8e43733b740c-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#9a00da8f09916abea5709a8808dd8e43733b740c> .
+
+<http://purl.org/socialparticipation/fb/Friendship#a61dc894f3a4acaf287e02fe3bcb8db6a8240927-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship a61dc894f3a4acaf287e02fe3bcb8db6a8240927-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#a61dc894f3a4acaf287e02fe3bcb8db6a8240927> .
+
+<http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> .
+
+<http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#aa9c4873d7bcf6be3804ba02f12344e56da55fbf-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship aa9c4873d7bcf6be3804ba02f12344e56da55fbf-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> .
+
+<http://purl.org/socialparticipation/fb/Friendship#ae34d80a7f1090992d1b5b46aea2bd32058626a0-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship ae34d80a7f1090992d1b5b46aea2bd32058626a0-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#ae34d80a7f1090992d1b5b46aea2bd32058626a0> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-6ea6f35c0b8f246878fcf95965b868744df0f0e8> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-6ea6f35c0b8f246878fcf95965b868744df0f0e8" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#afb730a3b527bcd99dba77d7c781dff15efbc73c-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship afb730a3b527bcd99dba77d7c781dff15efbc73c-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-0ae7daf473f5f07e58125ae5468449209ea17bd1> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-0ae7daf473f5f07e58125ae5468449209ea17bd1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-59d8c9150c1c742bbd0668f022a2d4db9d0488ee> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-59d8c9150c1c742bbd0668f022a2d4db9d0488ee" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-b4e75f8f131689b08999fc952f572822849d3dcb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b4e75f8f131689b08999fc952f572822849d3dcb-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship b4e75f8f131689b08999fc952f572822849d3dcb-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-b620117ef8b98d86eb421d548201b0ceb3088d26> a fb:Friendship ;
+    rdfs:label "Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-b620117ef8b98d86eb421d548201b0ceb3088d26" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b620117ef8b98d86eb421d548201b0ceb3088d26-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship b620117ef8b98d86eb421d548201b0ceb3088d26-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b758e9f21ee9ee1b8f679868058b3780dd91dceb-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship b758e9f21ee9ee1b8f679868058b3780dd91dceb-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b758e9f21ee9ee1b8f679868058b3780dd91dceb-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship b758e9f21ee9ee1b8f679868058b3780dd91dceb-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> .
+
+<http://purl.org/socialparticipation/fb/Friendship#b758e9f21ee9ee1b8f679868058b3780dd91dceb-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship b758e9f21ee9ee1b8f679868058b3780dd91dceb-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship c12761b8ba3e2c708e07e6000b29d7e101e8b8ab-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-441abcfb4ea5bb72c9e4dda9b57073dca75ee668> a fb:Friendship ;
+    rdfs:label "Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-441abcfb4ea5bb72c9e4dda9b57073dca75ee668" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-111885f09fe6c434e52f569ea0414d3b46b4dd87> a fb:Friendship ;
+    rdfs:label "Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-111885f09fe6c434e52f569ea0414d3b46b4dd87" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> a fb:Friendship ;
+    rdfs:label "Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa> .
+
+<http://purl.org/socialparticipation/fb/Friendship#c7eb6ecfbcebd079a252f0af81618a335304cffa-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship c7eb6ecfbcebd079a252f0af81618a335304cffa-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Friendship ;
+    rdfs:label "Friendship cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-25ea710e2eeff851e9ee31a9f87c6d973b4c5752" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-0ae7daf473f5f07e58125ae5468449209ea17bd1> a fb:Friendship ;
+    rdfs:label "Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-0ae7daf473f5f07e58125ae5468449209ea17bd1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> a fb:Friendship ;
+    rdfs:label "Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-9814bdde76ae9c50f79952d839ff2cb8fa4ffddf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf>,
+        <http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167> .
+
+<http://purl.org/socialparticipation/fb/Friendship#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167> .
+
+<http://purl.org/socialparticipation/fb/Friendship#ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d3696620f4b4b76ff34649e9c251de55c3115ff8-0ae7daf473f5f07e58125ae5468449209ea17bd1> a fb:Friendship ;
+    rdfs:label "Friendship d3696620f4b4b76ff34649e9c251de55c3115ff8-0ae7daf473f5f07e58125ae5468449209ea17bd1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d3696620f4b4b76ff34649e9c251de55c3115ff8-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship d3696620f4b4b76ff34649e9c251de55c3115ff8-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d3696620f4b4b76ff34649e9c251de55c3115ff8-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship d3696620f4b4b76ff34649e9c251de55c3115ff8-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d5cbec11618deda254ee067bff6b162e8ba6dd0b-59d8c9150c1c742bbd0668f022a2d4db9d0488ee> a fb:Friendship ;
+    rdfs:label "Friendship d5cbec11618deda254ee067bff6b162e8ba6dd0b-59d8c9150c1c742bbd0668f022a2d4db9d0488ee" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee>,
+        <http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d5cbec11618deda254ee067bff6b162e8ba6dd0b-6ea6f35c0b8f246878fcf95965b868744df0f0e8> a fb:Friendship ;
+    rdfs:label "Friendship d5cbec11618deda254ee067bff6b162e8ba6dd0b-6ea6f35c0b8f246878fcf95965b868744df0f0e8" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d5cbec11618deda254ee067bff6b162e8ba6dd0b-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship d5cbec11618deda254ee067bff6b162e8ba6dd0b-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d727175560f77a2aa631844ef41028af915bc4f1-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship d727175560f77a2aa631844ef41028af915bc4f1-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d727175560f77a2aa631844ef41028af915bc4f1-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship d727175560f77a2aa631844ef41028af915bc4f1-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d727175560f77a2aa631844ef41028af915bc4f1-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship d727175560f77a2aa631844ef41028af915bc4f1-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#d73162495ce33b30c42854dee2c52f9b09de7243-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship d73162495ce33b30c42854dee2c52f9b09de7243-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#d73162495ce33b30c42854dee2c52f9b09de7243> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e006592e6d160eaa9bc37c2f5d45cb193b784fea-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship e006592e6d160eaa9bc37c2f5d45cb193b784fea-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#e006592e6d160eaa9bc37c2f5d45cb193b784fea> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-111885f09fe6c434e52f569ea0414d3b46b4dd87> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-111885f09fe6c434e52f569ea0414d3b46b4dd87" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-25ea710e2eeff851e9ee31a9f87c6d973b4c5752" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-441abcfb4ea5bb72c9e4dda9b57073dca75ee668> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-441abcfb4ea5bb72c9e4dda9b57073dca75ee668" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-4f27bc630e4dd0faa73609af9710d5a379b02743" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-58ccfa902c64de8634e8d19848ca85116a0c0e1a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-59d8c9150c1c742bbd0668f022a2d4db9d0488ee> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-59d8c9150c1c742bbd0668f022a2d4db9d0488ee" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-822cf63cc461a6fb87eb704215f0abea916c7305" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-b620117ef8b98d86eb421d548201b0ceb3088d26> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-b620117ef8b98d86eb421d548201b0ceb3088d26" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-b758e9f21ee9ee1b8f679868058b3780dd91dceb" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-e1ab4ee2d1da43388d7b6b7649416915520ccc58" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e1ab4ee2d1da43388d7b6b7649416915520ccc58-ff4baec49ce01978b9401abce30a6868166c77fe> a fb:Friendship ;
+    rdfs:label "Friendship e1ab4ee2d1da43388d7b6b7649416915520ccc58-ff4baec49ce01978b9401abce30a6868166c77fe" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e4d6f6b1d467862a232d81c47e085e44f7f16175-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship e4d6f6b1d467862a232d81c47e085e44f7f16175-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#e4d6f6b1d467862a232d81c47e085e44f7f16175> .
+
+<http://purl.org/socialparticipation/fb/Friendship#e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e> .
+
+<http://purl.org/socialparticipation/fb/Friendship#eda597cb7c7c94e11863749a52a2c7d585ef49f2-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship eda597cb7c7c94e11863749a52a2c7d585ef49f2-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#eda597cb7c7c94e11863749a52a2c7d585ef49f2> .
+
+<http://purl.org/socialparticipation/fb/Friendship#ff4baec49ce01978b9401abce30a6868166c77fe-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Friendship ;
+    rdfs:label "Friendship ff4baec49ce01978b9401abce30a6868166c77fe-2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> .
+
+<http://purl.org/socialparticipation/fb/Friendship#ff4baec49ce01978b9401abce30a6868166c77fe-34f4e78ef6e88681514323429fcb167b291b29be> a fb:Friendship ;
+    rdfs:label "Friendship ff4baec49ce01978b9401abce30a6868166c77fe-34f4e78ef6e88681514323429fcb167b291b29be" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> .
+
+<http://purl.org/socialparticipation/fb/Friendship#ff4baec49ce01978b9401abce30a6868166c77fe-aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Friendship ;
+    rdfs:label "Friendship ff4baec49ce01978b9401abce30a6868166c77fe-aa9c4873d7bcf6be3804ba02f12344e56da55fbf" ;
+    fb:member <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> .
+
+fb:friend a owl:SymmetricProperty .
+
+<http://purl.org/socialparticipation/po/Snapshot#AdornoNaoEhEnfeite_interacoes> a po:Snapshot ;
+    rdfs:label "Snapshot AdornoNaoEhEnfeite_interacoes" ;
+    fb:link "https://www.facebook.com/groups/265217103529531/permalink/525654127485826/"^^xsd:string ;
+    fb:uid "265217103529531"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/AdornoNaoEhEnfeite_interacoes"^^xsd:string ;
+    po:createdAt "2013-03-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesMeta.ttl"^^xsd:string ;
+    po:donatedBy "AdornoNaoEhEnfeite_interacoes"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/base/['..', 'data', 'fb', 'gdf', 'AdornoNaoEhEnfeite_interacoes.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:45:53.940304"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Adorno Nao Eh Enfeite_interacoes"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#0b43102d7c525e90e859f922159406d9cc13e1c2> a fb:Participant ;
+    rdfs:label "user_58" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_58"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "0b43102d7c525e90e859f922159406d9cc13e1c2"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#193b166f878657bce576b982ef786df59e9cfe7a> a fb:Participant ;
+    rdfs:label "user_59" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_59"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "193b166f878657bce576b982ef786df59e9cfe7a"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#266a6b8251d7154dedeab7c2b051b5a3069752cb> a fb:Participant ;
+    rdfs:label "user_53" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_53"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "266a6b8251d7154dedeab7c2b051b5a3069752cb"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#26d844075553d22d07920b0dd9273ae2877974f8> a fb:Participant ;
+    rdfs:label "user_39" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> ;
+    fb:name "user_39"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "26d844075553d22d07920b0dd9273ae2877974f8"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#293624d809532c07173c0e32cdb85090b73dac5e> a fb:Participant ;
+    rdfs:label "user_9" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_9"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "293624d809532c07173c0e32cdb85090b73dac5e"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#2cdde11783bb31ecb5e0435e27951cef4ecef94e> a fb:Participant ;
+    rdfs:label "user_43" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_43"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "2cdde11783bb31ecb5e0435e27951cef4ecef94e"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#350a638313394f62c4457a75206c875b85c2406b> a fb:Participant ;
+    rdfs:label "user_37" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_37"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "350a638313394f62c4457a75206c875b85c2406b"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#43c651331f255801382d9b0c999d9fb93c4a9410> a fb:Participant ;
+    rdfs:label "user_60" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_60"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "43c651331f255801382d9b0c999d9fb93c4a9410"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#586d1130b1b9996e954ad11874bed0cdc974d592> a fb:Participant ;
+    rdfs:label "user_54" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_54"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "586d1130b1b9996e954ad11874bed0cdc974d592"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#60583d66f68e63f986d2482b2cba724c42ca5194> a fb:Participant ;
+    rdfs:label "user_61" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_61"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "60583d66f68e63f986d2482b2cba724c42ca5194"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#60ad4f263c0d33eca663b989a32084238886a249> a fb:Participant ;
+    rdfs:label "user_57" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_57"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "60ad4f263c0d33eca663b989a32084238886a249"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada> a fb:Participant ;
+    rdfs:label "user_55" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_55"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#7632bda1a4731bff9a644973a87e7188022ed4a9> a fb:Participant ;
+    rdfs:label "user_52" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_52"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "7632bda1a4731bff9a644973a87e7188022ed4a9"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#7b0d2099c6ac8aa4a7dd37050b6538eaed042763> a fb:Participant ;
+    rdfs:label "user_62" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_62"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "7b0d2099c6ac8aa4a7dd37050b6538eaed042763"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#82868cfde0f4ab7f759f9d2da41e3c2a6eab2644> a fb:Participant ;
+    rdfs:label "user_4" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_4"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "82868cfde0f4ab7f759f9d2da41e3c2a6eab2644"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#899eb753ec555b70cf522346d0ffc13d51059ada> a fb:Participant ;
+    rdfs:label "user_48" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> ;
+    fb:name "user_48"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "899eb753ec555b70cf522346d0ffc13d51059ada"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#8b8f4614c9db0ac743149d7b4758bd1c3acf8872> a fb:Participant ;
+    rdfs:label "user_63" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_63"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "8b8f4614c9db0ac743149d7b4758bd1c3acf8872"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#a61dc894f3a4acaf287e02fe3bcb8db6a8240927> a fb:Participant ;
+    rdfs:label "user_12" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_12"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "a61dc894f3a4acaf287e02fe3bcb8db6a8240927"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#ae34d80a7f1090992d1b5b46aea2bd32058626a0> a fb:Participant ;
+    rdfs:label "user_7" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_7"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "ae34d80a7f1090992d1b5b46aea2bd32058626a0"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Participant ;
+    rdfs:label "user_46" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_46"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "ce12a9bf67365f7b3b4e96d45cb4c0273816c40d"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Participant ;
+    rdfs:label "user_32" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> ;
+    fb:name "user_32"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "d73162495ce33b30c42854dee2c52f9b09de7243"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#e006592e6d160eaa9bc37c2f5d45cb193b784fea> a fb:Participant ;
+    rdfs:label "user_10" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_10"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "e006592e6d160eaa9bc37c2f5d45cb193b784fea"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#e4d6f6b1d467862a232d81c47e085e44f7f16175> a fb:Participant ;
+    rdfs:label "user_33" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> ;
+    fb:name "user_33"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "e4d6f6b1d467862a232d81c47e085e44f7f16175"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e> a fb:Participant ;
+    rdfs:label "user_19" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_19"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#eda597cb7c7c94e11863749a52a2c7d585ef49f2> a fb:Participant ;
+    rdfs:label "user_25" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_25"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "eda597cb7c7c94e11863749a52a2c7d585ef49f2"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#0489f676e00f5c6596daf9984f6c0fc58b4e9b4a> a fb:Participant ;
+    rdfs:label "user_56" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> ;
+    fb:name "user_56"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "0489f676e00f5c6596daf9984f6c0fc58b4e9b4a"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#4333fef33f93621d40533486bc164d1febda34f8> a fb:Participant ;
+    rdfs:label "user_23" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> ;
+    fb:name "user_23"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "4333fef33f93621d40533486bc164d1febda34f8"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#74ad88ea7bae664bf6a625a014d5a77df3828691> a fb:Participant ;
+    rdfs:label "user_30" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> ;
+    fb:name "user_30"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "74ad88ea7bae664bf6a625a014d5a77df3828691"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#8b31fc1a8cfcd512c88d984198a72cdc42f63a8d> a fb:Participant ;
+    rdfs:label "user_15" ;
+    fb:name "user_15"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "8b31fc1a8cfcd512c88d984198a72cdc42f63a8d"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#9a00da8f09916abea5709a8808dd8e43733b740c> a fb:Participant ;
+    rdfs:label "user_38" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> ;
+    fb:name "user_38"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "9a00da8f09916abea5709a8808dd8e43733b740c"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#6405c5508229011b26873663e4610cf4fc22ac37> a fb:Participant ;
+    rdfs:label "user_42" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> ;
+    fb:name "user_42"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "6405c5508229011b26873663e4610cf4fc22ac37"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#88ee3b630210f8601a87eefa9c8a6772b3151674> a fb:Participant ;
+    rdfs:label "user_36" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_36"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "88ee3b630210f8601a87eefa9c8a6772b3151674"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#8bd054df3ff5d4cfe0df56244f6be357f6bf24b6> a fb:Participant ;
+    rdfs:label "user_27" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> ;
+    fb:name "user_27"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "8bd054df3ff5d4cfe0df56244f6be357f6bf24b6"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#c12761b8ba3e2c708e07e6000b29d7e101e8b8ab> a fb:Participant ;
+    rdfs:label "user_49" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> ;
+    fb:name "user_49"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "c12761b8ba3e2c708e07e6000b29d7e101e8b8ab"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#d3696620f4b4b76ff34649e9c251de55c3115ff8> a fb:Participant ;
+    rdfs:label "user_41" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> ;
+    fb:name "user_41"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "d3696620f4b4b76ff34649e9c251de55c3115ff8"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#d5cbec11618deda254ee067bff6b162e8ba6dd0b> a fb:Participant ;
+    rdfs:label "user_45" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee>,
+        <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_45"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "d5cbec11618deda254ee067bff6b162e8ba6dd0b"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#d727175560f77a2aa631844ef41028af915bc4f1> a fb:Participant ;
+    rdfs:label "user_51" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_51"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "d727175560f77a2aa631844ef41028af915bc4f1"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63> a fb:Participant ;
+    rdfs:label "user_26" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> ;
+    fb:name "user_26"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#889b92201ede006d4af59afb51cd2fafed846815> a fb:Participant ;
+    rdfs:label "user_22" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_22"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "889b92201ede006d4af59afb51cd2fafed846815"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#c7eb6ecfbcebd079a252f0af81618a335304cffa> a fb:Participant ;
+    rdfs:label "user_2" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_2"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "c7eb6ecfbcebd079a252f0af81618a335304cffa"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167> a fb:Participant ;
+    rdfs:label "user_34" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> ;
+    fb:name "user_34"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee> a fb:Participant ;
+    rdfs:label "user_50" ;
+    fb:name "user_50"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "59d8c9150c1c742bbd0668f022a2d4db9d0488ee"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#afb730a3b527bcd99dba77d7c781dff15efbc73c> a fb:Participant ;
+    rdfs:label "user_13" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_13"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "afb730a3b527bcd99dba77d7c781dff15efbc73c"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#4acf621acb858c3fe42290864b2cf991066bcca5> a fb:Participant ;
+    rdfs:label "user_14" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> ;
+    fb:name "user_14"^^xsd:string ;
+    fb:posts "0"^^xsd:string ;
+    fb:uid "4acf621acb858c3fe42290864b2cf991066bcca5"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> a fb:Participant ;
+    rdfs:label "user_31" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> ;
+    fb:name "user_31"^^xsd:string ;
+    fb:posts "3"^^xsd:string ;
+    fb:uid "ff4baec49ce01978b9401abce30a6868166c77fe"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668> a fb:Participant ;
+    rdfs:label "user_40" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> ;
+    fb:name "user_40"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "441abcfb4ea5bb72c9e4dda9b57073dca75ee668"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8> a fb:Participant ;
+    rdfs:label "user_18" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_18"^^xsd:string ;
+    fb:posts "5"^^xsd:string ;
+    fb:uid "6ea6f35c0b8f246878fcf95965b868744df0f0e8"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> a fb:Participant ;
+    rdfs:label "user_47" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> ;
+    fb:name "user_47"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> a fb:Participant ;
+    rdfs:label "user_20" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:name "user_20"^^xsd:string ;
+    fb:posts "2"^^xsd:string ;
+    fb:uid "ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> a fb:Participant ;
+    rdfs:label "user_17" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> ;
+    fb:name "user_17"^^xsd:string ;
+    fb:posts "5"^^xsd:string ;
+    fb:uid "cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87> a fb:Participant ;
+    rdfs:label "user_6" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b> ;
+    fb:name "user_6"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "111885f09fe6c434e52f569ea0414d3b46b4dd87"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Participant ;
+    rdfs:label "user_16" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_16"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "25ea710e2eeff851e9ee31a9f87c6d973b4c5752"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1> a fb:Participant ;
+    rdfs:label "user_44" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_44"^^xsd:string ;
+    fb:posts "12"^^xsd:string ;
+    fb:uid "0ae7daf473f5f07e58125ae5468449209ea17bd1"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26> a fb:Participant ;
+    rdfs:label "user_35" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_35"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "b620117ef8b98d86eb421d548201b0ceb3088d26"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb> a fb:Participant ;
+    rdfs:label "user_21" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_21"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "b758e9f21ee9ee1b8f679868058b3780dd91dceb"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> a fb:Participant ;
+    rdfs:label "user_29" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653> ;
+    fb:name "user_29"^^xsd:string ;
+    fb:posts "9"^^xsd:string ;
+    fb:uid "c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a> a fb:Participant ;
+    rdfs:label "user_28" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> ;
+    fb:name "user_28"^^xsd:string ;
+    fb:posts "1"^^xsd:string ;
+    fb:uid "2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a> a fb:Participant ;
+    rdfs:label "user_5" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_5"^^xsd:string ;
+    fb:posts "5"^^xsd:string ;
+    fb:uid "58ccfa902c64de8634e8d19848ca85116a0c0e1a"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> a fb:Participant ;
+    rdfs:label "user_24" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_24"^^xsd:string ;
+    fb:posts "6"^^xsd:string ;
+    fb:uid "b4e75f8f131689b08999fc952f572822849d3dcb"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743> a fb:Participant ;
+    rdfs:label "user_11" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb> ;
+    fb:name "user_11"^^xsd:string ;
+    fb:posts "8"^^xsd:string ;
+    fb:uid "4f27bc630e4dd0faa73609af9710d5a379b02743"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf> a fb:Participant ;
+    rdfs:label "user_8" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_8"^^xsd:string ;
+    fb:posts "33"^^xsd:string ;
+    fb:uid "aa9c4873d7bcf6be3804ba02f12344e56da55fbf"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305> a fb:Participant ;
+    rdfs:label "user_3" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:name "user_3"^^xsd:string ;
+    fb:posts "11"^^xsd:string ;
+    fb:uid "822cf63cc461a6fb87eb704215f0abea916c7305"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Participant ;
+    rdfs:label "user_1" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#59d8c9150c1c742bbd0668f022a2d4db9d0488ee>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> ;
+    fb:name "user_1"^^xsd:string ;
+    fb:posts "11"^^xsd:string ;
+    fb:uid "e1ab4ee2d1da43388d7b6b7649416915520ccc58"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be> a fb:Participant ;
+    rdfs:label "user_0" ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#0ae7daf473f5f07e58125ae5468449209ea17bd1>,
+        <http://purl.org/socialparticipation/fb/Participant#111885f09fe6c434e52f569ea0414d3b46b4dd87>,
+        <http://purl.org/socialparticipation/fb/Participant#25ea710e2eeff851e9ee31a9f87c6d973b4c5752>,
+        <http://purl.org/socialparticipation/fb/Participant#2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a>,
+        <http://purl.org/socialparticipation/fb/Participant#34f4e78ef6e88681514323429fcb167b291b29be>,
+        <http://purl.org/socialparticipation/fb/Participant#441abcfb4ea5bb72c9e4dda9b57073dca75ee668>,
+        <http://purl.org/socialparticipation/fb/Participant#4f27bc630e4dd0faa73609af9710d5a379b02743>,
+        <http://purl.org/socialparticipation/fb/Participant#58ccfa902c64de8634e8d19848ca85116a0c0e1a>,
+        <http://purl.org/socialparticipation/fb/Participant#6ea6f35c0b8f246878fcf95965b868744df0f0e8>,
+        <http://purl.org/socialparticipation/fb/Participant#822cf63cc461a6fb87eb704215f0abea916c7305>,
+        <http://purl.org/socialparticipation/fb/Participant#8b31fc1a8cfcd512c88d984198a72cdc42f63a8d>,
+        <http://purl.org/socialparticipation/fb/Participant#9814bdde76ae9c50f79952d839ff2cb8fa4ffddf>,
+        <http://purl.org/socialparticipation/fb/Participant#aa9c4873d7bcf6be3804ba02f12344e56da55fbf>,
+        <http://purl.org/socialparticipation/fb/Participant#b4e75f8f131689b08999fc952f572822849d3dcb>,
+        <http://purl.org/socialparticipation/fb/Participant#b620117ef8b98d86eb421d548201b0ceb3088d26>,
+        <http://purl.org/socialparticipation/fb/Participant#b758e9f21ee9ee1b8f679868058b3780dd91dceb>,
+        <http://purl.org/socialparticipation/fb/Participant#c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653>,
+        <http://purl.org/socialparticipation/fb/Participant#cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1>,
+        <http://purl.org/socialparticipation/fb/Participant#e1ab4ee2d1da43388d7b6b7649416915520ccc58>,
+        <http://purl.org/socialparticipation/fb/Participant#ff4baec49ce01978b9401abce30a6868166c77fe> ;
+    fb:name "user_0"^^xsd:string ;
+    fb:posts "70"^^xsd:string ;
+    fb:uid "34f4e78ef6e88681514323429fcb167b291b29be"^^xsd:string .
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf">
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfTranslate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf</rdfs:label>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf</po:availableAt>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T12:45:24.143358</po:triplifiedIn>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfMeta.owl</po:discorveryRDFFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Laila Manuelle</rdfs:comment>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">laila.manuelle</ns1:sid>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1713144485</ns1:uid>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-01-17</po:createdAt>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/base/['..', 'data', 'fb', 'gdf', 'LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf.gdf']</po:originalFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LailaManuelle</po:donatedBy>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfTranslate.ttl</po:ttlFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bf/master/rdf/LailaManuelle_1713144485_2013_01_17_02_58_7ef03eec79f843f1e6834acd13f077bfMeta.ttl</po:discoveryTTLFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#AtivistasDaInclusaoDigital> a po:Snapshot ;
+    rdfs:label "Snapshot AtivistasDaInclusaoDigital" ;
+    ns1:link "https://www.facebook.com/groups/423602557691243/permalink/525201037531394/"^^xsd:string ;
+    ns1:uid "423602557691243"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/AtivistasDaInclusaoDigital"^^xsd:string ;
+    po:createdAt "2013-03-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalMeta.ttl"^^xsd:string ;
+    po:donatedBy "AtivistasDaInclusaoDigital"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/base/['..', 'data', 'fb', 'gdf', 'AtivistasDaInclusaoDigital.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:46:19.040161"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/AtivistasDaInclusaoDigital/master/rdf/AtivistasDaInclusaoDigitalTranslate.ttl"^^xsd:string ;
+    po:uid "423602557691243"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Ativistas Da Inclusao Digital"^^xsd:string .
+

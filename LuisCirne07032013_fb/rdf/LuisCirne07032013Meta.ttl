@@ -1,0 +1,24 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#LuisCirne07032013> a po:Snapshot ;
+    rdfs:label "Snapshot LuisCirne07032013" ;
+    fb:sid "lufcirne"^^xsd:string ;
+    fb:uid "717903828"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/LuisCirne07032013"^^xsd:string ;
+    po:createdAt "2013-03-07"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Meta.ttl"^^xsd:string ;
+    po:donatedBy "LuisCirne"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/base/LuisCirne07032013.gml"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T12:14:12.771345"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/LuisCirne07032013/master/rdf/LuisCirne07032013Translate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Luis Cirne"^^xsd:string .
+

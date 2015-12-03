@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#Economia14042013_interactions">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-04-14</po:createdAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsTranslate.owl</po:rdfFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsMeta.ttl</po:discoveryTTLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Economia</rdfs:comment>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">economa1</ns1:sid>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsMeta.owl</po:discorveryRDFFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/rdf/Economia14042013_interactionsTranslate.ttl</po:ttlFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot Economia14042013_interactions</rdfs:label>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:51:35.414028</po:triplifiedIn>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/Economia14042013_interactions/master/base/['..', 'data', 'fb', 'gdf', 'Economia14042013_interactions.gdf']</po:originalFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Economia</po:donatedBy>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/Economia14042013_interactions</po:availableAt>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/economa1/permalink/586007714743535/</ns1:link>
+  </rdf:Description>
+</rdf:RDF>

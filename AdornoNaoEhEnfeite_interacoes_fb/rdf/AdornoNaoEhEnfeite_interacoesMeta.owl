@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#AdornoNaoEhEnfeite_interacoes">
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesTranslate.ttl</po:ttlFile>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/base/['..', 'data', 'fb', 'gdf', 'AdornoNaoEhEnfeite_interacoes.gdf']</po:originalFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesMeta.ttl</po:discoveryTTLFile>
+    <rdfs:label>Snapshot AdornoNaoEhEnfeite_interacoes</rdfs:label>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/AdornoNaoEhEnfeite_interacoes</po:availableAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AdornoNaoEhEnfeite_interacoes</po:donatedBy>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">265217103529531</ns1:uid>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-15</po:createdAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite_interacoes/master/rdf/AdornoNaoEhEnfeite_interacoesTranslate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:45:53.940304</po:triplifiedIn>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Adorno Nao Eh Enfeite_interacoes</rdfs:comment>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/265217103529531/permalink/525654127485826/</ns1:link>
+  </rdf:Description>
+</rdf:RDF>

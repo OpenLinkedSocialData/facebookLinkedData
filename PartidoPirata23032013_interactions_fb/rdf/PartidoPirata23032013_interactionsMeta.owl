@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#PartidoPirata23032013_interactions">
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PartidoPirata</po:donatedBy>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/partidopiratabrasil/permalink/10151409024509317/</ns1:link>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/PartidoPirata23032013_interactions</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PartidoPirata23032013_interactions/master/rdf/PartidoPirata23032013_interactionsTranslate.owl</po:rdfFile>
+    <rdfs:label>Snapshot PartidoPirata23032013_interactions</rdfs:label>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:51:57.717382</po:triplifiedIn>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PartidoPirata23032013_interactions/master/rdf/PartidoPirata23032013_interactionsTranslate.ttl</po:ttlFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PartidoPirata23032013_interactions/master/rdf/PartidoPirata23032013_interactionsMeta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PartidoPirata23032013_interactions/master/rdf/PartidoPirata23032013_interactionsMeta.ttl</po:discoveryTTLFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PartidoPirata23032013_interactions/master/base/['..', 'data', 'fb', 'gdf', 'PartidoPirata23032013_interactions.gdf']</po:originalFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Partido Pirata</rdfs:comment>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">partidopiratabrasil</ns1:sid>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-23</po:createdAt>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+  </rdf:Description>
+</rdf:RDF>

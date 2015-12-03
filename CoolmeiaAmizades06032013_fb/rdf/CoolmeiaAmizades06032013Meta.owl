@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#CoolmeiaAmizades06032013">
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CoolmeiaAmizades</po:donatedBy>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-06</po:createdAt>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/base/['..', 'data', 'fb', 'gdf', 'CoolmeiaAmizades06032013.gdf']</po:originalFile>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">coolmeia</ns1:sid>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:48:31.257993</po:triplifiedIn>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/CoolmeiaAmizades06032013</po:availableAt>
+    <rdfs:label>Snapshot CoolmeiaAmizades06032013</rdfs:label>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Translate.owl</po:rdfFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Meta.ttl</po:discoveryTTLFile>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/coolmeia/permalink/489757754464962/</ns1:link>
+    <po:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">141692169271524</po:uid>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Translate.ttl</po:ttlFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Coolmeia Amizades</rdfs:comment>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/CoolmeiaAmizades06032013/master/rdf/CoolmeiaAmizades06032013Meta.owl</po:discorveryRDFFile>
+  </rdf:Description>
+</rdf:RDF>

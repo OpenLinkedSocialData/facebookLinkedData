@@ -1,0 +1,63 @@
+digraph  {
+	graph [label="RDF metadata for the facebook friendship network of my son"];
+	node [label="\N"];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38"	 [color="#02F3DD",
+		style=filled];
+	0	 [color="#02F3F1",
+		label="2013-02-19",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 0	 [label=createdAt];
+	1	 [color="#02F3F1",
+		label="2015-12-03 03:21:43.367525",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 1	 [label=triplifiedIn];
+	2	 [color="#02F3F1",
+		label=ThaisTeixeiraFabbri,
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 2	 [label=donatedBy];
+	3	 [color="#02F3F1",
+		label="https://github.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 3	 [label=availableAt];
+	4	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/\
+master/base/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38.gml",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 4	 [label=originalFile];
+	5	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/\
+master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Translate.owl",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 5	 [label=rdfFile];
+	6	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/\
+master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Translate.ttl",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 6	 [label=ttlFile];
+	7	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/\
+master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Meta.owl",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 7	 [label=discorveryRDFFile];
+	8	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38/\
+master/rdf/ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38Meta.ttl",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 8	 [label=discoveryTTLFile];
+	9	 [color="#02F3F1",
+		label=Netvizz,
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 9	 [label=acquiredThrough];
+	10	 [color="#02F3F1",
+		label="The facebook friendship network from Thais Teixeira Fabbri",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 10	 [label="rdf-schema#comment"];
+	11	 [color="#02F3F1",
+		label=100001089120349,
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 11	 [label=uid];
+	12	 [color="#02F3F1",
+		label="thais.t.fabbri",
+		style=filled];
+	"Snapshot ThaisTeixeiraFabbri_huge_100001089120349_2013_02_19_06_28_20b14681423b224363cad7233f074f38" -> 12	 [label=sid];
+}

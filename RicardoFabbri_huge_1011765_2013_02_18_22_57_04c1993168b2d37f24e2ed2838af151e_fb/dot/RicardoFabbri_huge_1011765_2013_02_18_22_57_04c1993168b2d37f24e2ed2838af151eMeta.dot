@@ -1,0 +1,63 @@
+digraph  {
+	graph [label="RDF metadata for the facebook friendship network of my son"];
+	node [label="\N"];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e"	 [color="#02F3DD",
+		style=filled];
+	0	 [color="#02F3F1",
+		label="2013-02-18",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 0	 [label=createdAt];
+	1	 [color="#02F3F1",
+		label="2015-12-03 03:34:13.017752",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 1	 [label=triplifiedIn];
+	2	 [color="#02F3F1",
+		label=RicardoFabbri,
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 2	 [label=donatedBy];
+	3	 [color="#02F3F1",
+		label="https://github.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 3	 [label=availableAt];
+	4	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/base/RicardoFabbri_\
+huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e.gml",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 4	 [label=originalFile];
+	5	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_\
+huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eTranslate.owl",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 5	 [label=rdfFile];
+	6	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_\
+huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eTranslate.ttl",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 6	 [label=ttlFile];
+	7	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_\
+huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eMeta.owl",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 7	 [label=discorveryRDFFile];
+	8	 [color="#02F3F1",
+		label="https://raw.githubusercontent.com/ttm/RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e/master/rdf/RicardoFabbri_\
+huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151eMeta.ttl",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 8	 [label=discoveryTTLFile];
+	9	 [color="#02F3F1",
+		label=Netvizz,
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 9	 [label=acquiredThrough];
+	10	 [color="#02F3F1",
+		label="The facebook friendship network from Ricardo Fabbri",
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 10	 [label="rdf-schema#comment"];
+	11	 [color="#02F3F1",
+		label=1011765,
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 11	 [label=uid];
+	12	 [color="#02F3F1",
+		label=ricardofabbri,
+		style=filled];
+	"Snapshot RicardoFabbri_huge_1011765_2013_02_18_22_57_04c1993168b2d37f24e2ed2838af151e" -> 12	 [label=sid];
+}

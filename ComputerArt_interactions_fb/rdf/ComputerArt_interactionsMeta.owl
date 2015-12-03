@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#ComputerArt_interactions">
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:48:30.899034</po:triplifiedIn>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/base/['..', 'data', 'fb', 'gdf', 'ComputerArt_interactions.gdf']</po:originalFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsMeta.ttl</po:discoveryTTLFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsTranslate.ttl</po:ttlFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-15</po:createdAt>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computerart</ns1:sid>
+    <ns1:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/computerart/permalink/259389137529870/</ns1:link>
+    <rdfs:label>Snapshot ComputerArt_interactions</rdfs:label>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/ComputerArt_interactions</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsTranslate.owl</po:rdfFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ComputerArt_interactions</po:donatedBy>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Computer Art_interactions</rdfs:comment>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ComputerArt_interactions/master/rdf/ComputerArt_interactionsMeta.owl</po:discorveryRDFFile>
+  </rdf:Description>
+</rdf:RDF>

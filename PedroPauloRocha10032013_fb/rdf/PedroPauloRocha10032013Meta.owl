@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#PedroPauloRocha10032013">
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dpedropaulorocha</ns1:sid>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/base/['..', 'data', 'fb', 'gdf', 'PedroPauloRocha10032013.gdf']</po:originalFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/PedroPauloRocha10032013</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Translate.owl</po:rdfFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-10</po:createdAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PedroPauloRocha</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Meta.owl</po:discorveryRDFFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Pedro Paulo Rocha</rdfs:comment>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Meta.ttl</po:discoveryTTLFile>
+    <rdfs:label>Snapshot PedroPauloRocha10032013</rdfs:label>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Translate.ttl</po:ttlFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T12:50:51.587734</po:triplifiedIn>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">836944624</ns1:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+  </rdf:Description>
+</rdf:RDF>

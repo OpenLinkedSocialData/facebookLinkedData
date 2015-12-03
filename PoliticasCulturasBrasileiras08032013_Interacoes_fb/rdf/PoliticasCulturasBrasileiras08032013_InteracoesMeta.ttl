@@ -1,0 +1,24 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#PoliticasCulturasBrasileiras08032013_Interacoes> a po:Snapshot ;
+    rdfs:label "Snapshot PoliticasCulturasBrasileiras08032013_Interacoes" ;
+    ns1:link "https://www.facebook.com/groups/pcult/permalink/519626544747423/"^^xsd:string ;
+    ns1:sid "pcult"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes"^^xsd:string ;
+    po:createdAt "2013-03-08"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_InteracoesMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_InteracoesMeta.ttl"^^xsd:string ;
+    po:donatedBy "PoliticasCulturasBrasileiras"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/base/['..', 'data', 'fb', 'gdf', 'PoliticasCulturasBrasileiras08032013_Interacoes.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_InteracoesTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:58:26.604794"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/PoliticasCulturasBrasileiras08032013_Interacoes/master/rdf/PoliticasCulturasBrasileiras08032013_InteracoesTranslate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Politicas Culturas Brasileiras"^^xsd:string .
+

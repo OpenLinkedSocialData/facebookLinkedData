@@ -1,0 +1,24 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#PedroPauloRocha10032013> a po:Snapshot ;
+    rdfs:label "Snapshot PedroPauloRocha10032013" ;
+    ns1:sid "dpedropaulorocha"^^xsd:string ;
+    ns1:uid "836944624"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/PedroPauloRocha10032013"^^xsd:string ;
+    po:createdAt "2013-03-10"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Meta.ttl"^^xsd:string ;
+    po:donatedBy "PedroPauloRocha"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/base/['..', 'data', 'fb', 'gdf', 'PedroPauloRocha10032013.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T12:50:51.587734"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/PedroPauloRocha10032013/master/rdf/PedroPauloRocha10032013Translate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Pedro Paulo Rocha"^^xsd:string .
+

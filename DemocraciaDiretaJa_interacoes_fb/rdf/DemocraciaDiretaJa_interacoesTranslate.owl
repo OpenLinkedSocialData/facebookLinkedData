@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1819158439-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1819158439"/>
+    <rdfs:label>Friendship 1819158439-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001054787658">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernanda Melky</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001054787658</fb:uid>
+    <rdfs:label>Fernanda Melky</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000001330132">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000001330132</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Acauã Guarani Kaiowá</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acauã Guarani Kaiowá</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100004333183527-100000435102985">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <rdfs:label>Friendship 100004333183527-100000435102985</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004333183527"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000112249273-100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100000112249273-100002699638563</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000112249273"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000415545312">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Jf Mark</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jf Mark</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000415545312</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000972049883">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joao Carlos Santos</fb:name>
+    <rdfs:label>Joao Carlos Santos</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000972049883</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004342684218">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nyckanon Voice</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004342684218</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>Nyckanon Voice</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-1385161181">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003265980072-1385161181</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000517975763-100001840368814">
+    <rdfs:label>Friendship 100000517975763-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000517975763"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002699638563-100003265980072">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100002699638563-100003265980072</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100000491776358-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602098389-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100002602098389-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602098389"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000517975763">
+    <rdfs:label>Lis Rodrigues Rodrigues</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lis Rodrigues Rodrigues</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000517975763</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003252259138">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002335680833"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Zee Yowl Us</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Las Zee Yowl Us</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003252259138</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002335680833">
+    <rdfs:label>Daniel Mazola</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002335680833</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Daniel Mazola</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000165138108-100004484221675">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdfs:label>Friendship 100000165138108-100004484221675</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000165138108"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000972049883-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000972049883"/>
+    <rdfs:label>Friendship 100000972049883-100001840368814</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002618333183">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Núcleo De Consciência Negra</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Núcleo De Consciência Negra</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002618333183</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001564781259">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evilasio Almeida</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Evilasio Almeida</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001564781259</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002706681491">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Girap Corre Na Veia</fb:name>
+    <rdfs:label>Girap Corre Na Veia</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002706681491</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000491776358">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geraldo Carvalho</fb:name>
+    <rdfs:label>Geraldo Carvalho</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000847777938"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000491776358</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003265980072">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000023447779"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001574534046"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001105343770"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002530371938"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002335680833"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003265980072</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002450637384"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004673222830"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1314951704"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000438033584"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdfs:label>Democracia Direta</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Democracia Direta</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000001330132"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1098825766"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000847777938"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001700432573"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000200976565">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000200976565</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Sabrina Oliveira</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabrina Oliveira</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1069095194-100000067478391">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1069095194-100000067478391</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003150897966">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003150897966</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Marcha Xingu Vivo</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcha Xingu Vivo</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003359510759">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Eunice de Queiroz</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eunice de Queiroz</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003359510759</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001894088799">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rodrigo Blazzio</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001894088799</fb:uid>
+    <rdfs:label>Rodrigo Blazzio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100000067478391">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <rdfs:label>Friendship 100000491776358-100000067478391</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000112249273">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000112249273"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000112249273</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeferson Pereira</fb:name>
+    <rdfs:label>Jeferson Pereira</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001876409191">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Araujo Konesuk</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001876409191</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Fernando Araujo Konesuk</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1739305394">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#582645797"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mauricio Gonçalves Vieira</fb:name>
+    <rdfs:label>Mauricio Gonçalves Vieira</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1739305394</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001564781259">
+    <rdfs:label>Friendship 100003265980072-100001564781259</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000097321513">
+    <rdfs:label>Jose Vasconcelos Vasconcelos</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Vasconcelos Vasconcelos</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000097321513</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100004342684218-100003343697776">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004342684218"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100004342684218-100003343697776</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000308556769">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000308556769</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Manuel Alves</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manuel Alves</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001840368814">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luiz Fernando Pegorer</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001840368814</fb:uid>
+    <rdfs:label>Luiz Fernando Pegorer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100002545264436">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003265980072-100002545264436</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdfs:label>Friendship 100000139196863-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003202026500-100003202026500">
+    <rdfs:label>Friendship 100003202026500-100003202026500</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001840368814-100000611760569">
+    <rdfs:label>Friendship 100001840368814-100000611760569</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1739305394-582645797">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1739305394-582645797</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#582645797"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1098825766">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paulo Maia</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Paulo Maia</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1098825766</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001840368814-100000178194407">
+    <rdfs:label>Friendship 100001840368814-100000178194407</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002656171083">
+    <rdfs:label>Ulisses Guimarães Sobrinho Neto</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002656171083</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ulisses Guimarães Sobrinho Neto</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002545264436">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002545264436</fb:uid>
+    <rdfs:label>Murilo F. R. Murilo</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Murilo F. R. Murilo</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001564781259-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100001564781259-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100003202026500">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdfs:label>Friendship 100003265980072-100003202026500</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1739305394-100003343697776">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1739305394-100003343697776</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001502259602-100001502259602">
+    <rdfs:label>Friendship 100001502259602-100001502259602</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1739305394-100000178194407">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1739305394-100000178194407</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000067478391">
+    <rdfs:label>Cleber Lourenço</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleber Lourenço</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000067478391</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000847777938">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000847777938"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003265980072-100000847777938</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-1669313773">
+    <rdfs:label>Friendship 100003265980072-1669313773</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000761608134">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000761608134</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Vinicius Dias</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinicius Dias</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001502259602">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <rdfs:label>Edson F. Nascimento</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edson F. Nascimento</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001502259602</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1739305394-1739305394">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <rdfs:label>Friendship 1739305394-1739305394</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004283113278">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Regina Luisa</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004283113278</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regina Luisa</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1669313773">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <rdfs:label>Marcos Dias</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcos Dias</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1669313773</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100004673222830">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100004673222830</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004673222830"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000082224300">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pablo Müller</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000082224300</fb:uid>
+    <rdfs:label>Pablo Müller</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000611760569">
+    <rdfs:label>Friendship 100003265980072-100000611760569</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003178283806">
+    <rdfs:label>Mucuriense Mucuri</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003178283806</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mucuriense Mucuri</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1410736429-100001072510301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1410736429-100001072510301</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1410736429"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001054787658-100002455528302">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001054787658"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+    <rdfs:label>Friendship 100001054787658-100002455528302</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-577324396">
+    <rdfs:label>Friendship 100003265980072-577324396</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1832422427">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fatima Regina Lacerda</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1832422427</fb:uid>
+    <rdfs:label>Fatima Regina Lacerda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004484221675">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mayume Kioto Kamura</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</fb:posts>
+    <rdfs:label>Mayume Kioto Kamura</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004484221675</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002455528302-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+    <rdfs:label>Friendship 100002455528302-100001840368814</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-577324396">
+    <rdfs:label>Friendship 100000139196863-577324396</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100005069190396">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">João Silva</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100005069190396</fb:uid>
+    <rdfs:label>João Silva</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1819158439">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1819158439</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Walther Antonio Diogo Walther Diogo</fb:name>
+    <rdfs:label>Walther Antonio Diogo Walther Diogo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000023447779">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Lopo</fb:name>
+    <rdfs:label>Fernando Lopo</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000023447779</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001574534046">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <rdfs:label>Lucas Barbosa</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lucas Barbosa</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001574534046</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001700432573">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Yuri Alexandre Fotógrafo</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yuri Alexandre Fotógrafo</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001700432573</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000201552297">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000201552297</fb:uid>
+    <rdfs:label>Ivan Davi</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivan Davi</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002602245881">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400035362"/>
+    <rdfs:label>Rita Santos</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002602245881</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001105343770"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001422530196"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rita Santos</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100003359510759">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+    <rdfs:label>Friendship 100003265980072-100003359510759</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002450637384">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002450637384</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Maite Santamarta</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maite Santamarta</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1069095194-100001422530196">
+    <rdfs:label>Friendship 1069095194-100001422530196</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001422530196"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002471683768-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002471683768"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Friendship 100002471683768-100001840368814</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-1739305394">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <rdfs:label>Friendship 100003265980072-1739305394</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#577324396">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdfs:label>Lumarsol Matos</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lumarsol Matos</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577324396</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1412498916">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinicius Luandos</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>Vinicius Luandos</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1412498916</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000165138108-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000165138108"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Friendship 100000165138108-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001894088799">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <rdfs:label>Friendship 100003265980072-100001894088799</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002951347222">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matheus Carvalho</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002951347222</fb:uid>
+    <rdfs:label>Matheus Carvalho</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000612866607">
+    <rdfs:label>Friendship 100003265980072-100000612866607</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#577324396-100000611760569">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+    <rdfs:label>Friendship 577324396-100000611760569</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001080616837">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001080616837</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gílber Martins Duarte Duarte</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Gílber Martins Duarte Duarte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1314951704">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1314951704</fb:uid>
+    <rdfs:label>Marcos Celeiro</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcos Celeiro</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002951347222-100002951347222">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100002951347222-100002951347222</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000611760569-100000611760569">
+    <rdfs:label>Friendship 100000611760569-100000611760569</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1669313773-1669313773">
+    <rdfs:label>Friendship 1669313773-1669313773</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100003265980072">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100000139196863-100003265980072</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100002530371938">
+    <rdfs:label>Friendship 100003265980072-100002530371938</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002530371938"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1069095194">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001574534046"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joao Santos</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1069095194</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <rdfs:label>Joao Santos</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001422530196"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000847777938">
+    <rdfs:label>Graça Azeredo</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000847777938</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graça Azeredo</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001072510301-100002699638563">
+    <rdfs:label>Friendship 100001072510301-100002699638563</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000752716551-100000023447779">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000023447779"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000752716551"/>
+    <rdfs:label>Friendship 100000752716551-100000023447779</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001215383224">
+    <rdfs:label>Rafael Rossi</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001215383224</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rafael Rossi</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000438033584">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003265980072-100000438033584</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000438033584"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003343697776">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>ByAnon Fawkes</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003343697776</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ByAnon Fawkes</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000178194407">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100000178194407</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-1385161181">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <rdfs:label>Friendship 100000139196863-1385161181</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002530371938">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jornal A Nova Democracia</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002530371938</fb:uid>
+    <rdfs:label>Jornal A Nova Democracia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001422530196">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001422530196</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">André Caregnato</fb:name>
+    <rdfs:label>André Caregnato</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002293478574">
+    <rdfs:label>Huma Tecnologia</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Huma Tecnologia</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002293478574</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100000067478391">
+    <rdfs:label>Friendship 100000139196863-100000067478391</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1410736429">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdfs:label>Marduke Reese</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1410736429</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marduke Reese</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000139196863">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000139196863</fb:uid>
+    <rdfs:label>Diego Valadão</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000438033584"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diego Valadão</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002450637384"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#DemocraciaDiretaJa_interacoes">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-03-15</po:createdAt>
+    <fb:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ddjbrasil</fb:sid>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaDiretaJa_interacoes/master/rdf/DemocraciaDiretaJa_interacoesMeta.ttl</po:discoveryTTLFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T02:54:30.072867</po:triplifiedIn>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaDiretaJa_interacoes/master/base/['..', 'data', 'fb', 'gdf', 'DemocraciaDiretaJa_interacoes.gdf']</po:originalFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Democracia Direta Ja_interacoes</rdfs:comment>
+    <rdfs:label>Snapshot DemocraciaDiretaJa_interacoes</rdfs:label>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/DemocraciaDiretaJa_interacoes</po:availableAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaDiretaJa_interacoes/master/rdf/DemocraciaDiretaJa_interacoesTranslate.owl</po:rdfFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaDiretaJa_interacoes/master/rdf/DemocraciaDiretaJa_interacoesMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/DemocraciaDiretaJa_interacoes/master/rdf/DemocraciaDiretaJa_interacoesTranslate.ttl</po:ttlFile>
+    <fb:link rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/ddjbrasil/permalink/347023325397298/</fb:link>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DemocraciaDiretaJa_interacoes</po:donatedBy>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000200976565-100001894088799">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000200976565"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <rdfs:label>Friendship 100000200976565-100001894088799</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001840368814-100000491776358">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdfs:label>Friendship 100001840368814-100000491776358</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-100001422530196">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001422530196"/>
+    <rdfs:label>Friendship 100002602245881-100001422530196</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1400035362">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gilberto De Breyne Guarani Kaiowá</fb:name>
+    <rdfs:label>Gilberto De Breyne Guarani Kaiowá</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400035362</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001597392279">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001597392279</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Victor Moretti</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Victor Moretti</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#582645797">
+    <rdfs:label>Leandro Peña-Salvatico</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leandro Peña-Salvatico</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">582645797</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100004484221675">
+    <rdfs:label>Friendship 100000491776358-100004484221675</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100005069190396-100005069190396">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+    <rdfs:label>Friendship 100005069190396-100005069190396</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001700432573">
+    <rdfs:label>Friendship 100003265980072-100001700432573</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001700432573"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000577551611">
+    <rdfs:label>Paulo Kasmirski</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paulo Kasmirski</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000577551611</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100005069190396">
+    <rdfs:label>Friendship 100003265980072-100005069190396</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-100001894088799">
+    <rdfs:label>Friendship 100002602245881-100001894088799</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000165138108-100000611760569">
+    <rdfs:label>Friendship 100000165138108-100000611760569</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000165138108"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004673222830">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004673222830</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hefestos Wend</fb:name>
+    <rdfs:label>Hefestos Wend</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000178194407-100000178194407">
+    <rdfs:label>Friendship 100000178194407-100000178194407</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100001894088799">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <rdfs:label>Friendship 100003252259138-100001894088799</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000102844865">
+    <rdfs:label>Danilo Anarquista Marginal</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000102844865</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danilo Anarquista Marginal</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001105343770">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Nunes</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001105343770</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Fernando Nunes</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100002335680833">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100002335680833</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002335680833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003343697776-100003343697776">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <rdfs:label>Friendship 100003343697776-100003343697776</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100000178194407">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <rdfs:label>Friendship 100003252259138-100000178194407</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000165138108">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Edmilson Dos Santos Tiburcio</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000165138108</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edmilson Dos Santos Tiburcio</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004333183527">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004333183527</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>José Da Silva Guarani Kaiowá</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">José Da Silva Guarani Kaiowá</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-100000611760569">
+    <rdfs:label>Friendship 100002602245881-100000611760569</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1669313773-100002699638563">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+    <rdfs:label>Friendship 1669313773-100002699638563</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100000491776358">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003252259138-100000491776358</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000752716551">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000023447779"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">José F. Capela</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000752716551</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>José F. Capela</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000201552297-100001072510301">
+    <rdfs:label>Friendship 100000201552297-100001072510301</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000201552297"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001840368814-100002545264436">
+    <rdfs:label>Friendship 100001840368814-100002545264436</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000438033584">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">União Por Moradia Paraná</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000438033584</fb:uid>
+    <rdfs:label>União Por Moradia Paraná</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000232579980">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000232579980</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evangelo KAlemanis</fb:name>
+    <rdfs:label>Evangelo KAlemanis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001894088799-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100001894088799-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002602098389">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Carolina Bordonale Delefrate</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002602098389</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <rdfs:label>Ana Carolina Bordonale Delefrate</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000139196863">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdfs:label>Friendship 100003265980072-100000139196863</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002471683768">
+    <rdfs:label>Ana Karla Moreira Silva</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002471683768</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Karla Moreira Silva</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000611760569">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000611760569</fb:uid>
+    <rdfs:label>João Geraldo Morselli</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">João Geraldo Morselli</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100002450637384">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdfs:label>Friendship 100000139196863-100002450637384</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002450637384"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-1314951704">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1314951704"/>
+    <rdfs:label>Friendship 100003265980072-1314951704</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002455528302">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000001330132"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcelo Soares</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002455528302</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <rdfs:label>Marcelo Soares</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003643495677">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Mutti Rebello</fb:name>
+    <rdfs:label>Fernando Mutti Rebello</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003643495677</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000612866607">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <rdfs:label>Caio Marcelo Lourenço</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caio Marcelo Lourenço</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000612866607</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100002951347222">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100002951347222</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100005150976848">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dani Dani</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100005150976848</fb:uid>
+    <rdfs:label>Dani Dani</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001072510301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <rdfs:label>Angelica Angel</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001072510301</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angelica Angel</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100002545264436">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdfs:label>Friendship 100000491776358-100002545264436</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000178194407">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</fb:posts>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alexandre Alves Santiago</fb:name>
+    <rdfs:label>Alexandre Alves Santiago</rdfs:label>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000178194407</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1385161181">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Antonio Moroni</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1385161181</fb:uid>
+    <rdfs:label>Jose Antonio Moroni</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000435102985">
+    <rdfs:label>Djanira Tostes de Barros</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000435102985</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Djanira Tostes de Barros</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000082224300-100001840368814">
+    <rdfs:label>Friendship 100000082224300-100001840368814</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000082224300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001597392279-100004484221675">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001597392279"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100001597392279-100004484221675</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100000139196863-100002699638563</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000112249273-100000112249273">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000112249273"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100000112249273-100000112249273</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100000611760569">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100000139196863-100000611760569</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003252259138-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100004484221675-100004484221675">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdfs:label>Friendship 100004484221675-100004484221675</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001840368814-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Friendship 100001840368814-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000435102985-100001502259602">
+    <rdfs:label>Friendship 100000435102985-100001502259602</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003343697776-100000612866607">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <rdfs:label>Friendship 100003343697776-100000612866607</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001502259602">
+    <rdfs:label>Friendship 100003265980072-100001502259602</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-100001105343770">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <rdfs:label>Friendship 100002602245881-100001105343770</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001105343770"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001215383224">
+    <rdfs:label>Friendship 100003265980072-100001215383224</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003359510759-100003359510759">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003359510759-100003359510759</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000067478391-100000067478391">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <rdfs:label>Friendship 100000067478391-100000067478391</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002303868809-100003202026500">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002303868809"/>
+    <rdfs:label>Friendship 100002303868809-100003202026500</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-100002545264436">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <rdfs:label>Friendship 100002602245881-100002545264436</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003939810189-100001072510301">
+    <rdfs:label>Friendship 100003939810189-100001072510301</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003939810189"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003939810189">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003939810189</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Luiz Junior</fb:name>
+    <rdfs:label>Jose Luiz Junior</rdfs:label>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100000438033584">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000438033584"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdfs:label>Friendship 100000139196863-100000438033584</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001840368814-1385161181">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100001840368814-1385161181</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002303868809">
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdfs:label>Henrique Peer</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Henrique Peer</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002303868809</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000491776358">
+    <rdfs:label>Friendship 100003265980072-100000491776358</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003202026500">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003202026500</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdfs:label>Fhaby Cabral</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fhaby Cabral</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100000847777938">
+    <rdfs:label>Friendship 100000491776358-100000847777938</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000847777938"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003643495677-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003643495677"/>
+    <rdfs:label>Friendship 100003643495677-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100002450637384">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002450637384"/>
+    <rdfs:label>Friendship 100003265980072-100002450637384</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002688537407">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002688537407</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>William Smith Kaku</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">William Smith Kaku</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1412498916-100003202026500">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1412498916"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1412498916-100003202026500</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1069095194-100001502259602">
+    <rdfs:label>Friendship 1069095194-100001502259602</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100002699638563">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100002699638563</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <rdfs:label>Alfonso Perez</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso Perez</fb:name>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002699638563</fb:uid>
+    <fb:friend rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000612866607-100000612866607">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <rdfs:label>Friendship 100000612866607-100000612866607</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000001330132">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000001330132"/>
+    <rdfs:label>Friendship 100003265980072-100000001330132</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100000611760569">
+    <rdfs:label>Friendship 100000491776358-100000611760569</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000491776358-100001564781259">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdfs:label>Friendship 100000491776358-100001564781259</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000067478391">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003265980072-100000067478391</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000435102985">
+    <rdfs:label>Friendship 100003265980072-100000435102985</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdfs:label>Friendship 100002602245881-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000200976565-100001840368814">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000200976565"/>
+    <rdfs:label>Friendship 100000200976565-100001840368814</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001072510301">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100001072510301</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001574534046">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100001574534046</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001574534046"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100001564781259">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003252259138-100001564781259</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100000611760569">
+    <rdfs:label>Friendship 100003252259138-100000611760569</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#761802617">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">761802617</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivonete Jacob</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Ivonete Jacob</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-1098825766">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1098825766"/>
+    <rdfs:label>Friendship 100003265980072-1098825766</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002186685641">
+    <rdfs:label>Revo Cultura Livre</rdfs:label>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002186685641</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Revo Cultura Livre</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100002335680833">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100003252259138-100002335680833</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002335680833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100000023447779">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000023447779"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100000023447779</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000517975763-100001215383224">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000517975763"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100000517975763-100001215383224</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1069095194-100001574534046">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001574534046"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 1069095194-100001574534046</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002455528302-100000001330132">
+    <rdfs:label>Friendship 100002455528302-100000001330132</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000001330132"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100004484221675">
+    <rdfs:label>Friendship 100003265980072-100004484221675</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003252259138-100004484221675">
+    <rdfs:label>Friendship 100003252259138-100004484221675</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000031359851">
+    <rdfs:label>Juliane Botelho Ricaldes</rdfs:label>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juliane Botelho Ricaldes</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000031359851</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1069095194-100000139196863">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <rdfs:label>Friendship 1069095194-100000139196863</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100001502259602-100000435102985">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <rdfs:label>Friendship 100001502259602-100000435102985</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001824363686">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001824363686</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edsandro Monteiro</fb:name>
+    <rdfs:label>Edsandro Monteiro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000415545312-100003265980072">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000415545312"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100000415545312-100003265980072</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001840368814">
+    <rdfs:label>Friendship 100003265980072-100001840368814</rdfs:label>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002699638563-100002699638563">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <rdfs:label>Friendship 100002699638563-100002699638563</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000546186802">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000546186802</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Lucia Cipriano</fb:name>
+    <rdfs:label>Ana Lucia Cipriano</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1511473815">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antonio Jacinto Indio</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1511473815</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</fb:posts>
+    <rdfs:label>Antonio Jacinto Indio</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000761608134-100001215383224">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000761608134"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <rdfs:label>Friendship 100000761608134-100001215383224</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#1739305394-100003265980072">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 1739305394-100003265980072</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100003265980072-100001105343770">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001105343770"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdfs:label>Friendship 100003265980072-100001105343770</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100000139196863-100000139196863">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdfs:label>Friendship 100000139196863-100000139196863</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/friend">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Friendship#100002602245881-1400035362">
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400035362"/>
+    <fb:member rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Friendship"/>
+    <rdfs:label>Friendship 100002602245881-1400035362</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

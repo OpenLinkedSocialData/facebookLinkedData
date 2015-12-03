@@ -1,0 +1,25 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#ComputerArt10032013> a po:Snapshot ;
+    rdfs:label "Snapshot ComputerArt10032013" ;
+    ns1:link "https://www.facebook.com/groups/computerart/permalink/259389137529870/"^^xsd:string ;
+    ns1:sid "computerart"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/ComputerArt10032013"^^xsd:string ;
+    po:createdAt "2013-03-10"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/ComputerArt10032013/master/rdf/ComputerArt10032013Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/ComputerArt10032013/master/rdf/ComputerArt10032013Meta.ttl"^^xsd:string ;
+    po:donatedBy "ComputerArt"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/ComputerArt10032013/master/base/['..', 'data', 'fb', 'gdf', 'ComputerArt10032013.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/ComputerArt10032013/master/rdf/ComputerArt10032013Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:46:32.897368"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/ComputerArt10032013/master/rdf/ComputerArt10032013Translate.ttl"^^xsd:string ;
+    po:uid "180370915431693"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Computer Art"^^xsd:string .
+

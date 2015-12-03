@@ -1,0 +1,25 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#AdornoNaoEhEnfeite> a po:Snapshot ;
+    rdfs:label "Snapshot AdornoNaoEhEnfeite" ;
+    ns1:link "https://www.facebook.com/groups/265217103529531/permalink/525654127485826/"^^xsd:string ;
+    ns1:uid "265217103529531"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/AdornoNaoEhEnfeite"^^xsd:string ;
+    po:createdAt "2013-03-15"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite/master/rdf/AdornoNaoEhEnfeiteMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite/master/rdf/AdornoNaoEhEnfeiteMeta.ttl"^^xsd:string ;
+    po:donatedBy "AdornoNaoEhEnfeite"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite/master/base/['..', 'data', 'fb', 'gdf', 'AdornoNaoEhEnfeite.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite/master/rdf/AdornoNaoEhEnfeiteTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-03T02:45:51.197440"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/AdornoNaoEhEnfeite/master/rdf/AdornoNaoEhEnfeiteTranslate.ttl"^^xsd:string ;
+    po:uid "265217103529531"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Adorno Nao Eh Enfeite"^^xsd:string .
+
